@@ -1,0 +1,189 @@
+Country Name,City,Country Code,Region,IncomeGroup,PPP Ratio (2024),Std Family Urban (Annual),Std Family Rural (Annual),Typical Fam Urban (Annual),Typical Fam Rural (Annual),Single Indiv Urban (Annual),Single Indiv Rural (Annual),Single Parent Urban (Annual),Single Parent Rural (Annual),Source,city_median,U/R Gap%(std fam),U/R Gap%(single parent),U/R Gap%(single individual),U/R Gap%(Typical Fam),(Sing parent burden% vs std fam(U))
+Argentina,Buenos Aires,ARG,Latin America & Caribbean,Upper middle income,0.459,18194,9786,16774,8824,13127,6369,28871,14405,Numbeo City,13766.0,85.92,100.42,106.11,90.1,58.68
+Armenia,Yerevan,ARM,Europe & Central Asia,Upper middle income,0.375,15519,7830,15802,7936,12766,5724,24888,11585,Numbeo City,12176.0,98.2,114.83,123.03,99.12,60.37
+Australia,Melbourne,AUS,East Asia & Pacific,High income,0.896,28422,14835,25587,13113,22310,10861,45652,22282,Numbeo City,22296.0,91.59,104.88,105.41,95.13,60.62
+Australia,Canberra,AUS,East Asia & Pacific,High income,0.896,25938,12925,23283,11343,21901,11111,41791,19290,Numbeo City,20596.0,100.68,116.65,97.11,105.26,61.12
+Australia,Brisbane,AUS,East Asia & Pacific,High income,0.896,25337,12845,22736,11282,21422,9723,41536,19738,Numbeo City,20580.0,97.25,110.44,120.32,101.52,63.93
+Australia,Adelaide,AUS,East Asia & Pacific,High income,0.896,22041,12495,19639,10946,21238,10643,34932,18631,Numbeo City,19135.0,76.4,87.49,99.55,79.42,58.49
+Australia,Perth,AUS,East Asia & Pacific,High income,0.896,25217,13096,22634,11526,21833,10707,40606,19699,Numbeo City,20766.0,92.55,106.13,103.91,96.37,61.03
+Australia,Sydney,AUS,East Asia & Pacific,High income,0.896,36043,15743,32754,13987,30363,12510,59405,23964,Numbeo City,27164.0,128.95,147.89,142.71,134.17,64.82
+Austria,Vienna,AUT,Europe & Central Asia,High income,0.769,26724,13964,23721,12001,20280,9895,42443,20491,Numbeo City,20386.0,91.38,107.13,104.95,97.66,58.82
+Azerbaijan,Baku,AZE,Europe & Central Asia,Upper middle income,0.29,11441,5472,10466,4877,8454,3781,18248,7920,Numbeo City,8187.0,109.08,130.4,123.59,114.6,59.5
+Belarus,Minsk,BLR,Europe & Central Asia,Upper middle income,0.252,10426,5763,8976,4794,8841,3979,16412,8429,Numbeo City,8635.0,80.91,94.71,122.19,87.23,57.41
+Bosnia And Herzegovina,Sarajevo,BIH,Europe & Central Asia,Upper middle income,0.374,18535,9975,17685,9288,12479,6535,28878,14278,Numbeo City,13378.0,85.81,102.26,90.96,90.41,55.8
+Brazil,Curitiba,BRA,Latin America & Caribbean,Upper middle income,0.462,9481,5528,8754,5040,7265,3636,14456,7867,Numbeo City,7566.0,71.51,83.75,99.81,73.69,52.47
+Brazil,Florianopolis,BRA,Latin America & Caribbean,Upper middle income,0.462,11967,6779,11140,6236,8996,4548,18706,9946,Numbeo City,9471.0,76.53,88.08,97.8,78.64,56.31
+Brazil,Sao Paulo,BRA,Latin America & Caribbean,Upper middle income,0.462,14384,7449,13407,6826,9907,4827,22882,10957,Numbeo City,10432.0,93.1,108.83,105.24,96.41,59.08
+Brazil,Brasilia,BRA,Latin America & Caribbean,Upper middle income,0.462,11341,5863,10509,5330,7407,3583,17901,8495,Numbeo City,7951.0,93.43,110.72,106.73,97.17,57.84
+Brazil,Porto Alegre,BRA,Latin America & Caribbean,Upper middle income,0.462,9572,5646,8817,5132,7018,3690,14546,7999,Numbeo City,7508.0,69.54,81.85,90.19,71.8,51.96
+Brazil,Rio de Janeiro,BRA,Latin America & Caribbean,Upper middle income,0.462,11544,6106,10708,5566,9488,4107,18035,8771,Numbeo City,9130.0,89.06,105.62,131.02,92.38,56.23
+Brazil,Belo Horizonte,BRA,Latin America & Caribbean,Upper middle income,0.462,10013,5610,9254,5107,8065,3742,15333,7942,Numbeo City,8004.0,78.48,93.06,115.53,81.2,53.13
+Bulgaria,Plovdiv,BGR,Europe & Central Asia,High income,0.419,13174,7861,12095,7170,9991,5219,20213,11270,Numbeo City,10630.0,67.59,79.35,91.44,68.69,53.43
+Bulgaria,Sofia,BGR,Europe & Central Asia,High income,0.419,17279,9460,15935,8659,13502,6846,27340,13929,Numbeo City,13716.0,82.65,96.28,97.22,84.03,58.23
+Bulgaria,Varna,BGR,Europe & Central Asia,High income,0.419,14614,8634,13429,7880,10959,5882,22494,12401,Numbeo City,11680.0,69.26,81.39,86.31,70.42,53.92
+Canada,Halifax,CAN,North America,High income,0.84,29154,16870,25975,14659,25177,13008,46134,25166,Numbeo City,25172.0,72.82,83.32,93.55,77.19,58.24
+Canada,Calgary,CAN,North America,High income,0.84,26527,15743,23535,13647,23279,12015,41482,23237,Numbeo City,23258.0,68.5,78.52,93.75,72.46,56.38
+Canada,Ottawa,CAN,North America,High income,0.84,28381,16539,25310,14407,24898,12983,44634,24538,Numbeo City,24718.0,71.6,81.9,91.77,75.68,57.27
+Canada,Winnipeg,CAN,North America,High income,0.84,22749,14247,20030,12315,18199,10857,35207,20982,Numbeo City,19114.0,59.68,67.8,67.62,62.65,54.76
+Canada,London,CAN,North America,High income,0.84,26253,15605,23294,13534,21901,12006,41136,23106,Numbeo City,22504.0,68.23,78.03,82.42,72.11,56.69
+Canada,Victoria,CAN,North America,High income,0.84,32244,19050,28800,16634,26865,13861,51168,28641,Numbeo City,27753.0,69.26,78.65,93.82,73.14,58.69
+Canada,Vancouver,CAN,North America,High income,0.84,37258,19257,33751,16942,30175,15359,60443,29259,Numbeo City,29717.0,93.48,106.58,96.46,99.21,62.23
+Canada,Toronto,CAN,North America,High income,0.84,30854,17634,27726,15492,27105,14286,49046,26503,Numbeo City,26804.0,74.97,85.06,89.73,78.97,58.96
+Canada,Montreal,CAN,North America,High income,0.84,26627,15121,23662,13076,22050,10970,41914,22312,Numbeo City,22181.0,76.09,87.85,101.0,80.96,57.41
+Canada,Edmonton,CAN,North America,High income,0.84,24853,14612,22000,12622,20094,10725,38914,21554,Numbeo City,20824.0,70.09,80.54,87.36,74.3,56.58
+Chile,Santiago,CHL,Latin America & Caribbean,High income,0.462,12676,7471,11365,6501,9246,4903,19646,10857,Numbeo City,10052.0,69.67,80.95,88.58,74.82,54.99
+China,Beijing,CHN,East Asia & Pacific,Upper middle income,0.491,19490,8143,17117,6731,14791,5356,32294,12374,Numbeo City,13582.0,139.35,160.98,176.16,154.3,65.7
+China,Guangzhou,CHN,East Asia & Pacific,Upper middle income,0.491,13686,6281,11611,4948,9296,3795,21898,9044,Numbeo City,9170.0,117.9,142.13,144.95,134.66,60.0
+China,Shenzhen,CHN,East Asia & Pacific,Upper middle income,0.491,16722,7253,14507,5892,10368,4650,27443,10864,Numbeo City,10616.0,130.55,152.6,122.97,146.22,64.11
+China,Shanghai,CHN,East Asia & Pacific,Upper middle income,0.491,18746,7864,16435,6484,12236,5215,31057,11951,Numbeo City,12094.0,138.38,159.87,134.63,153.47,65.67
+China,Chengdu,CHN,East Asia & Pacific,Upper middle income,0.491,10246,5507,8481,4313,7032,3303,16009,7910,Numbeo City,7471.0,86.05,102.39,112.9,96.64,56.25
+Colombia,Bogota,COL,Latin America & Caribbean,Upper middle income,0.354,10624,6232,10196,5911,8156,4212,16504,9084,Numbeo City,8620.0,70.47,81.68,93.64,72.49,55.35
+Croatia,Zagreb,HRV,Europe & Central Asia,High income,0.485,24512,13791,22000,12127,19706,10022,38407,20163,Numbeo City,19934.0,77.74,90.48,96.63,81.41,56.69
+Cyprus,Limassol,CYP,Europe & Central Asia,High income,0.614,23690,12311,21363,10846,20357,10295,38601,18844,Numbeo City,19600.0,92.43,104.85,97.74,96.97,62.94
+Czech Republic,Brno,CZE,Europe & Central Asia,High income,0.552,19403,10947,16952,9376,16920,8557,30959,16429,Numbeo City,16674.0,77.24,88.44,97.73,80.8,59.56
+Czech Republic,Plzen,CZE,Europe & Central Asia,High income,0.552,15183,9879,13038,8377,13009,7551,23279,14438,Numbeo City,13024.0,53.69,61.23,72.28,55.64,53.32
+Czech Republic,Prague,CZE,Europe & Central Asia,High income,0.552,25897,12868,22909,11114,19714,10041,42405,19683,Numbeo City,19698.0,101.25,115.44,96.34,106.13,63.74
+Denmark,Copenhagen,DNK,Europe & Central Asia,High income,0.878,34485,17614,31479,15747,29337,13698,55358,26261,Numbeo City,27799.0,95.78,110.8,114.17,99.9,60.53
+Egypt,Cairo,EGY,Middle East & North Africa,Lower middle income,0.175,5436,2883,5673,3110,3537,1913,8538,4156,Numbeo City,3846.0,88.55,105.44,84.89,82.41,57.06
+Estonia,Tallinn,EST,Europe & Central Asia,High income,0.624,19507,10785,17607,9451,14475,7289,30786,15849,Numbeo City,15162.0,80.87,94.25,98.59,86.3,57.82
+Finland,Helsinki,FIN,Europe & Central Asia,High income,0.816,26527,14457,24235,12832,21203,10319,42135,21469,Numbeo City,21336.0,83.49,96.26,105.48,88.86,58.84
+France,Paris,FRA,Europe & Central Asia,High income,0.737,35729,17473,33887,16345,25962,12331,58096,26428,Numbeo City,26195.0,104.48,119.83,110.54,107.32,62.6
+Georgia,Tbilisi,GEO,Europe & Central Asia,Upper middle income,0.327,14827,7350,14838,7287,11203,4923,23865,10890,Numbeo City,11046.0,101.73,119.15,127.56,103.62,60.96
+Germany,Hamburg,DEU,Europe & Central Asia,High income,0.759,32278,17535,28441,15106,25566,12410,51774,26403,Numbeo City,25984.0,84.08,96.09,106.01,88.28,60.4
+Germany,Berlin,DEU,Europe & Central Asia,High income,0.759,34861,18638,30862,16146,28004,13015,56407,28387,Numbeo City,28196.0,87.04,98.71,115.17,91.14,61.81
+Germany,Munich,DEU,Europe & Central Asia,High income,0.759,39063,20235,34762,17621,30385,15314,63898,31200,Numbeo City,30792.0,93.05,104.8,98.41,97.28,63.58
+Germany,Stuttgart,DEU,Europe & Central Asia,High income,0.759,28884,16642,25289,14283,24721,12280,45715,24838,Numbeo City,24780.0,73.56,84.05,101.31,77.06,58.27
+Germany,Frankfurt,DEU,Europe & Central Asia,High income,0.759,33232,17764,29322,15312,25999,13547,53362,26719,Numbeo City,26359.0,87.07,99.72,91.92,91.5,60.57
+Greece,Athens,GRC,Europe & Central Asia,High income,0.558,17864,10669,16526,9650,13213,7292,27958,15743,Numbeo City,14478.0,67.44,77.59,81.2,71.25,56.5
+Greece,Thessaloniki,GRC,Europe & Central Asia,High income,0.558,15612,9427,14301,8432,11780,6404,24192,13726,Numbeo City,12753.0,65.61,76.25,83.95,69.6,54.96
+Hong Kong (China),Hong Kong,HKG,East Asia & Pacific,High income,0.719,37015,16492,31921,13459,27163,12544,61858,25793,Numbeo City,26478.0,124.44,139.82,116.54,137.17,67.12
+Hungary,Budapest,HUN,Europe & Central Asia,High income,0.48,21240,11780,19094,10397,16235,8144,33936,17659,Numbeo City,16947.0,80.31,92.17,99.35,83.65,59.77
+India,Chennai,IND,South Asia,Lower middle income,0.241,5623,3299,5264,3085,3546,1854,8649,4722,Numbeo City,4134.0,70.45,83.16,91.26,70.63,53.81
+India,Mumbai,IND,South Asia,Lower middle income,0.241,15792,5184,14814,4856,8833,3274,26991,8139,Numbeo City,8486.0,204.63,231.63,169.79,205.07,70.92
+India,Kolkata,IND,South Asia,Lower middle income,0.241,5201,2698,4869,2523,2970,1461,8175,3867,Numbeo City,3418.0,92.77,111.4,103.29,92.98,57.18
+India,Hyderabad,IND,South Asia,Lower middle income,0.241,6715,3409,6290,3189,4047,1958,10615,4929,Numbeo City,4488.0,96.98,115.36,106.69,97.24,58.08
+India,Bangalore,IND,South Asia,Lower middle income,0.241,8340,3991,7816,3736,5140,2318,13563,5993,Numbeo City,5566.0,108.97,126.31,121.74,109.21,62.63
+India,Ahmedabad,IND,South Asia,Lower middle income,0.241,5397,3158,5051,2953,3243,1872,8289,4504,Numbeo City,3874.0,70.9,84.04,73.24,71.05,53.59
+India,Pune,IND,South Asia,Lower middle income,0.241,7202,3659,6747,3424,4504,2272,11469,5351,Numbeo City,4928.0,96.83,114.33,98.24,97.05,59.25
+India,Gurgaon,IND,South Asia,Lower middle income,0.241,8666,4179,8122,3912,5093,2283,14038,6232,Numbeo City,5662.0,107.37,125.26,123.08,107.62,61.99
+India,Delhi,IND,South Asia,Lower middle income,0.241,7813,3768,7321,3527,4483,2154,12599,5583,Numbeo City,5033.0,107.35,125.67,108.12,107.57,61.26
+Ireland,Dublin,IRL,Europe & Central Asia,High income,0.802,41461,20966,37828,18846,36863,18176,68742,33008,Numbeo City,34936.0,97.75,108.26,102.81,100.72,65.8
+Israel,Tel Aviv-Yafo,ISR,Middle East & North Africa,High income,0.947,37502,19914,37463,20446,32951,14648,60570,30194,Numbeo City,31572.0,88.32,100.6,124.95,83.23,61.51
+Italy,Bologna,ITA,Europe & Central Asia,High income,0.649,28783,16083,25533,13816,21212,11378,45541,23786,Numbeo City,22499.0,78.97,91.46,86.43,84.81,58.22
+Italy,Turin,ITA,Europe & Central Asia,High income,0.649,23750,13232,20866,11220,17736,9091,37130,19197,Numbeo City,18466.0,79.49,93.42,95.09,85.97,56.34
+Italy,Rome,ITA,Europe & Central Asia,High income,0.649,32086,16283,28893,14159,24954,11406,52199,24736,Numbeo City,24845.0,97.05,111.02,118.78,104.06,62.68
+Italy,Milan,ITA,Europe & Central Asia,High income,0.649,41096,19297,37232,16781,31144,14237,67113,29079,Numbeo City,30112.0,112.97,130.8,118.75,121.87,63.31
+Jordan,Amman,JOR,Middle East & North Africa,Lower middle income,0.427,9538,5558,11103,6604,7419,3640,14649,7954,Numbeo City,7686.0,71.61,84.17,103.82,68.13,53.59
+Kazakhstan,Almaty,KAZ,Europe & Central Asia,Upper middle income,0.346,14703,7559,15117,8079,11824,5259,23679,11307,Numbeo City,11566.0,94.51,109.42,124.83,87.11,61.05
+Kazakhstan,Astana (Nur-Sultan),KAZ,Europe & Central Asia,Upper middle income,0.346,11615,6179,12075,6672,8763,4112,18546,9171,Numbeo City,8967.0,87.98,102.22,113.11,80.98,59.67
+Kenya,Nairobi,KEN,Sub-Saharan Africa,Lower middle income,0.321,12071,5466,12722,6141,7444,3274,19284,7843,Numbeo City,7644.0,120.84,145.88,127.37,107.16,59.75
+Kosovo (Disputed Territory),Pristina,XKX,Europe & Central Asia,Upper middle income,0.393,7600,4440,6446,3701,5671,2956,11803,6442,Numbeo City,6056.0,71.17,83.22,91.85,74.17,55.3
+Latvia,Riga,LVA,Europe & Central Asia,High income,0.537,19181,10957,17165,9546,13893,7055,29736,15784,Numbeo City,14838.0,75.06,88.39,96.92,79.81,55.03
+Lithuania,Vilnius,LTU,Europe & Central Asia,High income,0.531,22781,12324,20233,10561,18484,9338,36074,18149,Numbeo City,18316.0,84.85,98.77,97.94,91.58,58.35
+Luxembourg,Luxembourg,LUX,Europe & Central Asia,High income,0.883,33911,17611,30742,15521,28754,14726,56193,27636,Numbeo City,28195.0,92.56,103.33,95.26,98.07,65.71
+Malaysia,Kuala Lumpur,MYS,East Asia & Pacific,Upper middle income,0.306,13462,6987,12053,6111,10060,4546,21247,10094,Numbeo City,10077.0,92.67,110.49,121.29,97.23,57.83
+Mexico,Guadalajara,MEX,Latin America & Caribbean,Upper middle income,0.542,16156,8143,14814,7434,12059,5393,25849,11995,Numbeo City,12027.0,98.4,115.5,123.6,99.27,60.0
+Mexico,Monterrey,MEX,Latin America & Caribbean,Upper middle income,0.542,17215,10046,15778,9181,13788,6524,27213,14967,Numbeo City,14378.0,71.36,81.82,111.34,71.85,58.08
+Mexico,Mexico City,MEX,Latin America & Caribbean,Upper middle income,0.542,21914,9455,20133,8642,14941,6613,36119,14259,Numbeo City,14600.0,131.77,153.31,125.93,132.97,64.82
+Moldova,Chisinau,MDA,Europe & Central Asia,Upper middle income,0.407,13388,6669,11923,5862,10154,4656,21685,10004,Numbeo City,10079.0,100.75,116.76,118.08,103.39,61.97
+Montenegro,Podgorica,MNE,Europe & Central Asia,Upper middle income,0.389,14076,7978,14217,7981,10921,5552,22062,11673,Numbeo City,11297.0,76.44,89.0,96.7,78.14,56.73
+Morocco,Casablanca,MAR,Middle East & North Africa,Lower middle income,0.399,10148,4834,10269,4951,7854,3410,16296,7087,Numbeo City,7470.0,109.93,129.94,130.32,107.41,60.58
+Nepal,Kathmandu,NPL,South Asia,Lower middle income,0.252,5048,2639,5065,2646,3038,1509,7787,3676,Numbeo City,3357.0,91.28,111.83,101.33,91.42,54.26
+Netherlands,Eindhoven,NLD,Europe & Central Asia,High income,0.792,35034,18986,31168,16564,32372,16129,56018,28514,Numbeo City,29841.0,84.53,96.46,100.71,88.17,59.9
+Netherlands,Amsterdam,NLD,Europe & Central Asia,High income,0.792,49184,24732,44272,21833,47092,20660,80756,38256,Numbeo City,41264.0,98.87,111.09,127.94,102.78,64.19
+Netherlands,Rotterdam,NLD,Europe & Central Asia,High income,0.792,40209,21927,35937,19256,34859,17468,64900,33457,Numbeo City,34158.0,83.38,93.98,99.56,86.63,61.41
+New Zealand,Wellington,NZL,East Asia & Pacific,High income,0.886,23324,13398,21092,11954,18441,10714,36820,19954,Numbeo City,19198.0,74.09,84.52,72.12,76.44,57.86
+New Zealand,Auckland,NZL,East Asia & Pacific,High income,0.886,24337,13255,22079,11844,19284,10477,38608,19701,Numbeo City,19492.0,83.61,95.97,84.06,86.42,58.64
+North Macedonia,Skopje,MKD,Europe & Central Asia,Upper middle income,0.344,8938,5286,8621,5004,7002,3704,13687,7546,Numbeo City,7274.0,69.09,81.38,89.04,72.28,53.13
+Norway,Trondheim,NOR,Europe & Central Asia,High income,0.851,24535,14527,21503,12471,21316,11170,37836,20990,Numbeo City,21153.0,68.89,80.26,90.83,72.42,54.21
+Norway,Oslo,NOR,Europe & Central Asia,High income,0.851,27841,16211,24593,14042,25823,12946,43911,24102,Numbeo City,24348.0,71.74,82.19,99.47,75.14,57.72
+Oman,Muscat,OMN,Middle East & North Africa,High income,0.486,13619,7304,13318,7287,10052,4989,21152,10446,Numbeo City,10249.0,86.46,102.49,101.48,82.76,55.31
+Peru,Lima,PER,Latin America & Caribbean,Upper middle income,0.475,13796,7011,13070,6635,11429,4765,21854,10162,Numbeo City,10796.0,96.78,115.06,139.85,96.99,58.41
+Philippines,Manila,PHL,East Asia & Pacific,Lower middle income,0.338,17288,6871,15806,6242,8709,3939,28033,9801,Numbeo City,9255.0,151.61,186.02,121.1,153.22,62.15
+Poland,Warsaw,POL,Europe & Central Asia,High income,0.49,22899,11438,19859,9570,19023,9020,37543,17563,Numbeo City,18293.0,100.2,113.76,110.9,107.51,63.95
+Poland,Krakow (Cracow),POL,Europe & Central Asia,High income,0.49,18248,10251,15603,8514,15902,8028,29185,15463,Numbeo City,15533.0,78.01,88.74,98.08,83.26,59.94
+Poland,Katowice,POL,Europe & Central Asia,High income,0.49,14543,8549,12214,6974,12243,6102,22804,12622,Numbeo City,12228.0,70.11,80.67,100.64,75.14,56.8
+Poland,Wroclaw,POL,Europe & Central Asia,High income,0.49,17858,9844,15245,8141,15267,7711,28669,14864,Numbeo City,15054.0,81.41,92.88,97.99,87.26,60.54
+Poland,Gdansk,POL,Europe & Central Asia,High income,0.49,18223,9477,15595,7810,15836,7716,29333,14212,Numbeo City,14904.0,92.29,106.4,105.24,99.68,60.97
+Poland,Poznan,POL,Europe & Central Asia,High income,0.49,16377,8935,13938,7352,14357,7014,26198,13394,Numbeo City,13666.0,83.29,95.6,104.69,89.58,59.97
+Poland,Lodz,POL,Europe & Central Asia,High income,0.49,15111,8821,12729,7217,11596,6196,23530,12899,Numbeo City,12162.0,71.31,82.42,87.15,76.38,55.71
+Portugal,Porto,PRT,Europe & Central Asia,High income,0.559,24087,12382,22178,11159,20430,9454,39280,18958,Numbeo City,19694.0,94.53,107.19,116.1,98.75,63.08
+Portugal,Lisbon,PRT,Europe & Central Asia,High income,0.559,29350,13542,27208,12245,24112,11115,48562,20884,Numbeo City,22498.0,116.73,132.53,116.93,122.2,65.46
+Romania,Cluj-Napoca,ROU,Europe & Central Asia,High income,0.409,18370,10402,16983,9519,14612,7583,29019,15405,Numbeo City,15008.0,76.6,88.37,92.69,78.41,57.97
+Romania,Bucharest,ROU,Europe & Central Asia,High income,0.409,17255,9162,15941,8354,13386,6269,27407,13474,Numbeo City,13430.0,88.33,103.41,113.53,90.82,58.84
+Romania,Iasi,ROU,Europe & Central Asia,High income,0.409,14660,8623,13473,7842,11415,6177,22610,12417,Numbeo City,11916.0,70.01,82.09,84.8,71.81,54.23
+Romania,Brasov,ROU,Europe & Central Asia,High income,0.409,18177,9975,16823,9131,14315,6735,29044,14928,Numbeo City,14622.0,82.23,94.56,112.55,84.24,59.78
+Russia,Moscow,RUS,Europe & Central Asia,High income,0.314,24191,9136,21653,7915,18322,6745,40528,13982,Numbeo City,16152.0,164.79,189.86,171.64,173.57,67.53
+Russia,Saint Petersburg,RUS,Europe & Central Asia,High income,0.314,15241,7347,13450,6308,12476,5226,24559,10898,Numbeo City,11687.0,107.45,125.35,138.73,113.22,61.14
+Serbia,Belgrade,SRB,Europe & Central Asia,Upper middle income,0.417,19315,9641,18120,8881,15042,6620,31582,14684,Numbeo City,14863.0,100.34,115.08,127.22,104.03,63.51
+Serbia,Novi Sad,SRB,Europe & Central Asia,Upper middle income,0.417,15365,8705,14285,7970,11066,6014,24092,12731,Numbeo City,11898.0,76.51,89.24,84.0,79.23,56.8
+Singapore,Singapore,SGP,East Asia & Pacific,High income,0.602,41339,18404,36290,15511,32606,14828,69067,28795,Numbeo City,30700.0,124.62,139.86,119.89,133.96,67.07
+Slovakia,Bratislava,SVK,Europe & Central Asia,High income,0.543,23387,13011,21129,11527,19706,9730,36959,19210,Numbeo City,19458.0,79.75,92.39,102.53,83.3,58.03
+Slovenia,Ljubljana,SVN,Europe & Central Asia,High income,0.596,29551,15627,26427,13698,22444,11476,47494,23449,Numbeo City,22946.0,89.1,102.54,95.57,92.93,60.72
+South Africa,Pretoria,ZAF,Sub-Saharan Africa,Upper middle income,0.405,14379,8758,19484,11923,10468,6447,21224,12161,Numbeo City,12042.0,64.18,74.53,62.37,63.42,47.6
+South Africa,Cape Town,ZAF,Sub-Saharan Africa,Upper middle income,0.405,17419,9189,23546,12515,15258,6656,27927,13770,Numbeo City,14514.0,89.56,102.81,129.24,88.14,60.32
+South Africa,Johannesburg,ZAF,Sub-Saharan Africa,Upper middle income,0.405,14623,8151,19826,11131,9725,5500,22582,11690,Numbeo City,11410.0,79.4,93.17,76.82,78.12,54.43
+South Africa,Durban,ZAF,Sub-Saharan Africa,Upper middle income,0.405,10831,6503,14758,8918,7570,4436,16865,9537,Numbeo City,9228.0,66.55,76.84,70.65,65.49,55.71
+South Korea,Seoul,KOR,East Asia & Pacific,High income,0.594,24779,13117,19872,9745,15690,8234,38459,18532,Numbeo City,17111.0,88.91,107.53,90.55,103.92,55.21
+Spain,Barcelona,ESP,Europe & Central Asia,High income,0.608,24325,12645,23007,11553,22434,10371,39852,19508,Numbeo City,20971.0,92.37,104.29,116.31,99.14,63.83
+Spain,Madrid,ESP,Europe & Central Asia,High income,0.608,25578,12145,24305,11066,20954,9889,42016,18557,Numbeo City,19756.0,110.61,126.42,111.89,119.64,64.27
+Spain,Valencia,ESP,Europe & Central Asia,High income,0.608,21022,10567,19845,9604,18744,8521,34422,16214,Numbeo City,17479.0,98.94,112.3,119.97,106.63,63.74
+Sri Lanka,Colombo,LKA,South Asia,Lower middle income,0.289,12312,5609,11542,5249,7864,3594,19431,7821,Numbeo City,7842.0,119.5,148.45,118.81,119.89,57.82
+Sweden,Stockholm,SWE,Europe & Central Asia,High income,0.803,27142,14622,25359,13366,23823,10636,42883,21483,Numbeo City,22653.0,85.62,99.61,123.98,89.73,57.99
+Switzerland,Bern,CHE,Europe & Central Asia,High income,1.078,33736,18093,29833,15576,26734,13057,53862,26971,Numbeo City,26852.0,86.46,99.7,104.75,91.53,59.66
+Switzerland,Basel,CHE,Europe & Central Asia,High income,1.078,34994,19294,30980,16674,28456,13850,55905,28953,Numbeo City,28704.0,81.37,93.09,105.46,85.8,59.76
+Switzerland,Lausanne,CHE,Europe & Central Asia,High income,1.078,36949,20328,32848,17671,28607,14864,59662,31000,Numbeo City,29804.0,81.76,92.46,92.46,85.89,61.47
+Switzerland,Zurich,CHE,Europe & Central Asia,High income,1.078,49570,23121,44610,20204,37827,17565,81733,35503,Numbeo City,36665.0,114.39,130.21,115.35,120.8,64.88
+Switzerland,Geneva,CHE,Europe & Central Asia,High income,1.078,41982,22028,37533,19228,36264,16918,68604,33945,Numbeo City,35104.0,90.58,102.1,114.35,95.2,63.41
+Taiwan,Taipei,,,,,17964,9988,19886,11490,12063,6355,27778,14215,Numbeo City,13139.0,79.86,95.41,89.82,73.07,54.63
+Thailand,Bangkok,THA,East Asia & Pacific,Upper middle income,0.297,17457,6902,14957,5572,9907,4256,28318,9875,Numbeo City,9891.0,152.93,186.76,132.78,168.43,62.22
+Tunisia,Tunis,TUN,Middle East & North Africa,Lower middle income,0.288,6806,4082,7075,4217,5248,2675,10307,5743,Numbeo City,5496.0,66.73,79.47,96.19,67.77,51.44
+Turkey,Ankara,TUR,Europe & Central Asia,Upper middle income,0.348,14559,7799,13676,7167,12787,6179,23247,11575,Numbeo City,12181.0,86.68,100.84,106.94,90.82,59.67
+Turkey,Istanbul,TUR,Europe & Central Asia,Upper middle income,0.348,21670,10276,20680,9599,18527,7570,35203,15432,Numbeo City,16980.0,110.88,128.12,144.74,115.44,62.45
+Ukraine,Dnipro,UKR,Europe & Central Asia,Upper middle income,0.291,10015,5305,8056,4041,7295,3493,15808,7711,Numbeo City,7503.0,88.78,105.01,108.85,99.36,57.84
+Ukraine,Kiev (Kyiv),UKR,Europe & Central Asia,Upper middle income,0.291,12688,5995,10383,4596,10072,4316,20394,8761,Numbeo City,9416.0,111.64,132.78,133.36,125.91,60.73
+United Arab Emirates,Dubai,ARE,Middle East & North Africa,High income,0.635,31987,14262,28324,12299,26464,10146,53976,22792,Numbeo City,24628.0,124.28,136.82,160.83,130.3,68.74
+United Kingdom,London,GBR,Europe & Central Asia,High income,0.849,54751,26922,50391,24494,52126,23680,89905,41762,Numbeo City,46076.0,103.37,115.28,120.13,105.73,64.21
+United Kingdom,Liverpool,GBR,Europe & Central Asia,High income,0.849,29135,13942,26362,12343,23206,10498,46747,20536,Numbeo City,21871.0,108.97,127.63,121.05,113.58,60.45
+United Kingdom,Edinburgh,GBR,Europe & Central Asia,High income,0.849,34821,17421,31679,15589,28725,13237,56854,26678,Numbeo City,27702.0,99.88,113.11,117.01,103.21,63.28
+United Kingdom,Belfast,GBR,Europe & Central Asia,High income,0.849,27927,15368,25104,13584,23201,11957,44023,22603,Numbeo City,22902.0,81.72,94.77,94.04,84.81,57.64
+United States,"Washington, DC",USA,North America,High income,1.0,49266,25902,45026,23397,38553,18538,80995,40381,Numbeo City,39467.0,90.2,100.58,107.97,92.44,64.4
+United States,"San Francisco, CA",USA,North America,High income,1.0,53603,28431,48929,25632,48034,23151,87881,44110,Numbeo City,46072.0,88.54,99.23,107.48,90.89,63.95
+United States,"Cleveland, OH",USA,North America,High income,1.0,32488,15633,29445,13896,25286,11395,52275,23100,Numbeo City,24193.0,107.82,126.3,121.9,111.9,60.91
+United States,"New York, NY",USA,North America,High income,1.0,77078,30483,71013,27616,58611,23638,130141,47886,Numbeo City,53248.0,152.86,171.77,147.95,157.14,68.84
+United States,"Honolulu, HI",USA,North America,High income,1.0,52291,28669,47461,25656,40732,20039,83608,42942,Numbeo City,41837.0,82.4,94.7,103.26,84.99,59.89
+United States,"Charlotte, NC",USA,North America,High income,1.0,36528,17983,33191,16064,27260,13240,59297,27108,Numbeo City,27184.0,103.13,118.74,105.89,106.62,62.33
+United States,"Las Vegas, NV",USA,North America,High income,1.0,27982,16181,25251,14436,23869,12554,44778,24550,Numbeo City,24210.0,72.93,82.4,90.13,74.92,60.02
+United States,"Detroit, MI",USA,North America,High income,1.0,31060,15918,28078,14140,23517,10873,49180,23215,Numbeo City,23366.0,95.13,111.85,116.29,98.57,58.34
+United States,"Atlanta, GA",USA,North America,High income,1.0,36373,18340,32971,16336,29831,14605,58343,27199,Numbeo City,28515.0,98.33,114.5,104.25,101.83,60.4
+United States,"Madison, WI",USA,North America,High income,1.0,32370,17970,29286,16047,26128,13689,52049,27245,Numbeo City,26686.0,80.13,91.04,90.87,82.5,60.79
+United States,"San Antonio, TX",USA,North America,High income,1.0,29273,15536,26452,13824,23231,10796,47362,23563,Numbeo City,23397.0,88.42,101.0,115.18,91.35,61.79
+United States,"Miami, FL",USA,North America,High income,1.0,50518,24193,46181,21780,42370,18557,83167,37230,Numbeo City,39800.0,108.81,123.39,128.32,112.03,64.63
+United States,"Los Angeles, CA",USA,North America,High income,1.0,51874,24248,47498,21869,38502,20062,86054,37689,Numbeo City,38096.0,113.93,128.33,91.92,117.19,65.89
+United States,"San Diego, CA",USA,North America,High income,1.0,47259,24059,43219,21733,43160,20759,78536,37954,Numbeo City,40557.0,96.43,106.92,107.91,98.86,66.18
+United States,"Pittsburgh, PA",USA,North America,High income,1.0,29077,15992,26212,14203,25195,11960,45831,23495,Numbeo City,24345.0,81.82,95.07,110.66,84.55,57.62
+United States,"Seattle, WA",USA,North America,High income,1.0,45928,23907,41819,21462,37203,18102,74592,36429,Numbeo City,36816.0,92.11,104.76,105.52,94.85,62.41
+United States,"Sacramento, CA",USA,North America,High income,1.0,36305,20300,32889,18158,31110,15440,58016,30561,Numbeo City,30836.0,78.84,89.84,101.49,81.13,59.8
+United States,"Phoenix, AZ",USA,North America,High income,1.0,33535,18121,30315,16134,27345,13838,53649,27097,Numbeo City,27221.0,85.06,97.99,97.61,87.9,59.98
+United States,"Philadelphia, PA",USA,North America,High income,1.0,38941,19250,35316,17137,29992,14045,62455,28409,Numbeo City,29200.0,102.29,119.84,113.54,106.08,60.38
+United States,"Orlando, FL",USA,North America,High income,1.0,33075,19510,29874,17430,27908,14342,52924,29662,Numbeo City,28785.0,69.53,78.42,94.59,71.39,60.01
+United States,"Tampa, FL",USA,North America,High income,1.0,37772,19183,34383,17211,31832,14362,62017,29633,Numbeo City,30732.0,96.9,109.28,121.64,99.77,64.19
+United States,"Minneapolis, MN",USA,North America,High income,1.0,32487,18381,29309,16359,27861,13285,51265,27193,Numbeo City,27527.0,76.74,88.52,109.72,79.16,57.8
+United States,"Brooklyn, NY",USA,North America,High income,1.0,60679,26798,55629,24155,47414,21355,100583,41218,Numbeo City,44316.0,126.43,144.03,122.03,130.3,65.76
+United States,"Raleigh, NC",USA,North America,High income,1.0,31873,16743,28836,14909,25683,12555,51587,25356,Numbeo City,25520.0,90.37,103.45,104.56,93.41,61.85
+United States,"Houston, TX",USA,North America,High income,1.0,32057,16976,29078,15186,25352,12546,52038,25935,Numbeo City,25644.0,88.84,100.65,102.07,91.48,62.33
+United States,"Indianapolis, IN",USA,North America,High income,1.0,29057,15624,26231,13890,25645,12202,46556,23408,Numbeo City,24526.0,85.98,98.89,110.17,88.85,60.22
+United States,"Columbus, OH",USA,North America,High income,1.0,29405,16459,26501,14625,23801,11719,46707,24515,Numbeo City,24158.0,78.66,90.52,103.1,81.2,58.84
+United States,"Chicago, IL",USA,North America,High income,1.0,42080,19613,38378,17576,34779,15170,69296,30025,Numbeo City,32402.0,114.55,130.79,129.26,118.35,64.68
+United States,"Baltimore, MD",USA,North America,High income,1.0,28376,16761,25531,14905,28098,11835,44635,24900,Numbeo City,25216.0,69.3,79.26,137.41,71.29,57.3
+United States,"Denver, CO",USA,North America,High income,1.0,34820,19847,31534,17766,30878,15197,55789,30101,Numbeo City,30490.0,75.44,85.34,103.18,77.5,60.22
+United States,"Salt Lake City, UT",USA,North America,High income,1.0,30101,16212,27245,14472,24050,12790,48407,24486,Numbeo City,24268.0,85.67,97.69,88.04,88.26,60.82
+United States,"Austin, TX",USA,North America,High income,1.0,36700,17537,33416,15699,29803,12635,60684,27130,Numbeo City,28466.0,109.27,123.68,135.88,112.85,65.35
+United States,"Albuquerque, NM",USA,North America,High income,1.0,25180,14829,22610,13157,19521,10307,40376,22552,Numbeo City,21036.0,69.8,79.04,89.4,71.85,60.35
+United States,"Portland, OR",USA,North America,High income,1.0,37580,19731,34127,17661,30985,15315,60643,29817,Numbeo City,30401.0,90.46,103.38,102.32,93.23,61.37
+United States,"Dallas, TX",USA,North America,High income,1.0,36660,18678,33344,16740,27142,14081,59306,28232,Numbeo City,27687.0,96.27,110.07,92.76,99.19,61.77
+United States,"Boston, MA",USA,North America,High income,1.0,53510,24657,48963,22194,46894,21047,88635,38095,Numbeo City,42494.0,117.02,132.67,122.81,120.61,65.64
+Uruguay,Montevideo,URY,Latin America & Caribbean,High income,0.656,16714,10351,15188,9241,12429,7007,25286,14735,Numbeo City,13582.0,61.47,71.61,77.38,64.35,51.29
+Uzbekistan,Tashkent,UZB,Europe & Central Asia,Lower middle income,0.266,10832,5131,11515,5844,8516,3634,17493,7570,Numbeo City,8043.0,111.11,131.08,134.34,97.04,61.49
+Vietnam,Hanoi,VNM,East Asia & Pacific,Lower middle income,0.288,9843,5240,8923,4731,7054,3408,15605,7673,Numbeo City,7364.0,87.84,103.38,106.98,88.61,58.54
+Vietnam,Ho Chi Minh City,VNM,East Asia & Pacific,Lower middle income,0.288,11672,5752,10593,5197,8552,3498,18742,8471,Numbeo City,8512.0,102.92,121.25,144.48,103.83,60.57
