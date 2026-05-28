@@ -1,0 +1,472 @@
+﻿Country Name,City,Country Code,Region,IncomeGroup,"PPP Ratio
+(2024)","Std Family
+Urban
+(Annual)","Std Family
+Rural
+(Annual)","Typical Fam
+Urban
+(Annual)","Typical Fam
+Rural
+(Annual)","Single Indiv
+Urban
+(Annual)","Single Indiv
+Rural
+(Annual)","Single Parent
+Urban
+(Annual)","Single Parent
+Rural
+(Annual)",Source
+Aruba,,ABW,Latin America & Caribbean,High income,0.780,"USD 23,689","USD 13,445","USD 21,126","USD 11,687","USD 18,851","USD 9,702","USD 37,398","USD 19,955",PPP Model
+Africa Eastern and Southern,,AFE,,,0.000,"USD 10,608","USD 5,906","USD 10,346","USD 5,778","USD 7,471","USD 3,821","USD 16,510","USD 8,522",Aggregate
+Afghanistan,,AFG,Middle East & North Africa,Low income,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Income Avg
+Africa Western and Central,,AFW,,,0.000,"USD 10,608","USD 5,906","USD 10,346","USD 5,778","USD 7,471","USD 3,821","USD 16,510","USD 8,522",Aggregate
+Angola,,AGO,Sub-Saharan Africa,Lower middle income,0.263,"USD 7,854","USD 4,373","USD 7,709","USD 4,321","USD 5,341","USD 2,717","USD 12,139","USD 6,238",PPP Model
+Albania,,ALB,Europe & Central Asia,Upper middle income,0.426,"USD 12,342","USD 7,011","USD 11,505","USD 6,350","USD 9,294","USD 4,742","USD 19,157","USD 10,087",Numbeo
+Andorra,,AND,Europe & Central Asia,High income,0.658,"USD 19,926","USD 11,276","USD 18,039","USD 10,000","USD 15,471","USD 7,948","USD 31,353","USD 16,631",PPP Model
+Arab World,,ARB,,,0.000,"USD 12,440","USD 6,838","USD 11,871","USD 6,555","USD 9,438","USD 4,640","USD 19,689","USD 10,099",Aggregate
+United Arab Emirates,,ARE,Middle East & North Africa,High income,0.635,"USD 21,935","USD 11,449","USD 19,095","USD 9,727","USD 18,050","USD 7,937","USD 36,386","USD 18,091",Numbeo
+Argentina,,ARG,Latin America & Caribbean,Upper middle income,0.459,"USD 13,537","USD 8,104","USD 12,330","USD 7,251","USD 9,702","USD 5,068","USD 20,865","USD 11,696",Numbeo
+Armenia,,ARM,Europe & Central Asia,Upper middle income,0.375,"USD 14,546","USD 7,484","USD 14,805","USD 7,583","USD 11,511","USD 5,223","USD 23,232","USD 11,043",Numbeo
+American Samoa,,ASM,East Asia & Pacific,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Antigua and Barbuda,,ATG,Latin America & Caribbean,High income,0.705,"USD 21,383","USD 12,115","USD 19,239","USD 10,656","USD 16,769","USD 8,621","USD 33,691","USD 17,914",PPP Model
+Australia,,AUS,East Asia & Pacific,High income,0.896,"USD 23,150","USD 12,579","USD 20,698","USD 11,042","USD 19,393","USD 9,707","USD 36,960","USD 18,821",Numbeo
+Austria,,AUT,Europe & Central Asia,High income,0.769,"USD 22,915","USD 13,520","USD 20,140","USD 11,608","USD 17,407","USD 9,414","USD 35,743","USD 19,822",Numbeo
+Azerbaijan,,AZE,Europe & Central Asia,Upper middle income,0.290,"USD 9,839","USD 5,004","USD 8,963","USD 4,450","USD 7,106","USD 3,412","USD 15,528","USD 7,213",Numbeo
+Burundi,,BDI,Sub-Saharan Africa,Low income,0.184,"USD 5,440","USD 3,010","USD 5,512","USD 3,103","USD 3,511","USD 1,779","USD 8,348","USD 4,237",PPP Model
+Belgium,,BEL,Europe & Central Asia,High income,0.762,"USD 26,565","USD 15,973","USD 23,837","USD 14,103","USD 21,908","USD 12,241","USD 41,411","USD 23,512",Numbeo
+Benin,,BEN,Sub-Saharan Africa,Lower middle income,0.335,"USD 10,027","USD 5,607","USD 9,635","USD 5,385","USD 7,060","USD 3,600","USD 15,570","USD 8,068",PPP Model
+Burkina Faso,,BFA,Sub-Saharan Africa,Low income,0.339,"USD 10,153","USD 5,678","USD 9,746","USD 5,446","USD 7,161","USD 3,653","USD 15,769","USD 8,175",PPP Model
+Bangladesh,,BGD,South Asia,Lower middle income,0.269,"USD 3,981","USD 2,523","USD 3,816","USD 2,430","USD 2,274","USD 1,325","USD 5,865","USD 3,471",Numbeo
+Bulgaria,,BGR,Europe & Central Asia,High income,0.419,"USD 12,562","USD 7,708","USD 11,518","USD 7,024","USD 9,617","USD 5,297","USD 19,076","USD 10,965",Numbeo
+Bahrain,,BHR,Middle East & North Africa,High income,0.443,"USD 15,747","USD 8,037","USD 14,113","USD 7,149","USD 11,900","USD 5,618","USD 25,336","USD 11,998",Numbeo
+"Bahamas, The",,BHS,Latin America & Caribbean,High income,0.958,"USD 29,196","USD 16,631","USD 25,568","USD 14,110","USD 23,934","USD 12,346","USD 46,276","USD 24,868",PPP Model
+Bosnia and Herzegovina,,BIH,Europe & Central Asia,Upper middle income,0.374,"USD 13,795","USD 8,566","USD 12,955","USD 7,908","USD 10,070","USD 5,614","USD 20,604","USD 11,960",Numbeo
+Belarus,,BLR,Europe & Central Asia,Upper middle income,0.252,"USD 9,240","USD 5,233","USD 7,898","USD 4,323","USD 7,294","USD 3,411","USD 14,405","USD 7,580",Numbeo
+Belize,,BLZ,Latin America & Caribbean,Upper middle income,0.535,"USD 16,158","USD 9,110","USD 14,896","USD 8,278","USD 12,177","USD 6,241","USD 25,322","USD 13,336",PPP Model
+Bermuda,,BMU,North America,High income,1.150,"USD 35,160","USD 20,093","USD 30,298","USD 16,683","USD 29,597","USD 15,297","USD 55,930","USD 30,247",PPP Model
+Bolivia,,BOL,Latin America & Caribbean,Lower middle income,0.343,"USD 8,725","USD 5,102","USD 8,640","USD 5,142","USD 5,978","USD 3,243","USD 13,488","USD 7,363",Numbeo
+Brazil,,BRA,Latin America & Caribbean,Upper middle income,0.462,"USD 9,143","USD 5,345","USD 8,413","USD 4,851","USD 6,441","USD 3,347","USD 13,992","USD 7,622",Numbeo
+Barbados,,BRB,Latin America & Caribbean,High income,1.069,"USD 32,663","USD 18,642","USD 28,327","USD 15,611","USD 27,208","USD 14,051","USD 51,884","USD 27,988",PPP Model
+Brunei Darussalam,,BRN,East Asia & Pacific,High income,0.369,"USD 11,061","USD 6,195","USD 10,538","USD 5,882","USD 7,897","USD 4,032","USD 17,207","USD 8,946",PPP Model
+Bhutan,,BTN,South Asia,Lower middle income,0.000,"USD 11,134","USD 6,194","USD 10,662","USD 5,934","USD 8,026","USD 4,092","USD 17,376","USD 8,973",Income Avg
+Botswana,,BWA,Sub-Saharan Africa,Upper middle income,0.375,"USD 11,239","USD 6,297","USD 10,693","USD 5,968","USD 8,043","USD 4,107","USD 17,490","USD 9,098",PPP Model
+Central African Republic,,CAF,Sub-Saharan Africa,Low income,0.409,"USD 12,275","USD 6,888","USD 11,590","USD 6,462","USD 8,895","USD 4,546","USD 19,135","USD 9,984",PPP Model
+Canada,,CAN,North America,High income,0.840,"USD 26,563","USD 15,980","USD 23,564","USD 13,870","USD 22,405","USD 12,238","USD 41,655","USD 23,737",Numbeo
+Central Europe and the Baltics,,CEB,,,0.000,"USD 18,727","USD 10,628","USD 16,923","USD 9,418","USD 14,757","USD 7,611","USD 29,477","USD 15,670",Aggregate
+Switzerland,,CHE,Europe & Central Asia,High income,1.078,"USD 34,728","USD 19,367","USD 30,750","USD 16,760","USD 28,139","USD 14,388","USD 55,573","USD 29,201",Numbeo
+Channel Islands,,CHI,Europe & Central Asia,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Chile,,CHL,Latin America & Caribbean,High income,0.462,"USD 10,780","USD 6,605","USD 9,548","USD 5,691","USD 7,955","USD 4,415","USD 16,422","USD 9,454",Numbeo
+China,,CHN,East Asia & Pacific,Upper middle income,0.491,"USD 10,617","USD 5,564","USD 8,843","USD 4,378","USD 6,800","USD 3,297","USD 16,739","USD 8,062",Numbeo
+Cote d'Ivoire,,CIV,Sub-Saharan Africa,Lower middle income,0.356,"USD 10,659","USD 5,966","USD 10,188","USD 5,689","USD 7,570","USD 3,863","USD 16,570","USD 8,605",PPP Model
+Cameroon,,CMR,Sub-Saharan Africa,Lower middle income,0.327,"USD 9,798","USD 5,476","USD 9,434","USD 5,274","USD 6,876","USD 3,506","USD 15,207","USD 7,874",PPP Model
+"Congo, Dem. Rep.",,COD,Sub-Saharan Africa,Low income,0.357,"USD 10,686","USD 5,982","USD 10,212","USD 5,703","USD 7,593","USD 3,875","USD 16,614","USD 8,628",PPP Model
+"Congo, Rep.",,COG,Sub-Saharan Africa,Lower middle income,0.353,"USD 10,585","USD 5,924","USD 10,124","USD 5,654","USD 7,511","USD 3,833","USD 16,454","USD 8,542",PPP Model
+Colombia,,COL,Latin America & Caribbean,Upper middle income,0.354,"USD 9,809","USD 5,605","USD 9,399","USD 5,300","USD 6,960","USD 3,803","USD 15,152","USD 8,054",Numbeo
+Comoros,,COM,Sub-Saharan Africa,Lower middle income,0.420,"USD 12,624","USD 7,087","USD 11,890","USD 6,627","USD 9,184","USD 4,695","USD 19,689","USD 10,283",PPP Model
+Cabo Verde,,CPV,Sub-Saharan Africa,Upper middle income,0.464,"USD 13,963","USD 7,853","USD 13,037","USD 7,257","USD 10,306","USD 5,274","USD 21,820","USD 11,435",PPP Model
+Costa Rica,,CRI,Latin America & Caribbean,High income,0.598,"USD 19,804","USD 11,163","USD 17,810","USD 9,761","USD 14,830","USD 7,575","USD 30,693","USD 16,041",Numbeo
+Caribbean small states,,CSS,,,0.000,"USD 16,786","USD 9,508","USD 15,277","USD 8,499","USD 12,805","USD 6,606","USD 26,301","USD 13,923",Aggregate
+Cuba,,CUB,Latin America & Caribbean,Upper middle income,0.000,"USD 12,054","USD 7,259","USD 10,448","USD 6,151","USD 7,591","USD 5,851","USD 18,155","USD 10,132",Numbeo
+Curacao,,CUW,Latin America & Caribbean,High income,0.698,"USD 21,175","USD 11,994","USD 19,068","USD 10,563","USD 16,583","USD 8,525","USD 33,356","USD 17,730",PPP Model
+Cayman Islands,,CYM,Latin America & Caribbean,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Cyprus,,CYP,Europe & Central Asia,High income,0.614,"USD 19,163","USD 10,829","USD 17,124","USD 9,481","USD 14,006","USD 7,517","USD 30,609","USD 16,315",Numbeo
+Czechia,,CZE,Europe & Central Asia,High income,0.552,"USD 18,735","USD 10,508","USD 16,329","USD 8,965","USD 14,954","USD 7,761","USD 29,724","USD 15,611",Numbeo
+Germany,,DEU,Europe & Central Asia,High income,0.759,"USD 27,053","USD 15,534","USD 23,584","USD 13,250","USD 20,205","USD 10,574","USD 42,424","USD 22,847",Numbeo
+Djibouti,,DJI,Middle East & North Africa,Lower middle income,0.455,"USD 13,689","USD 7,696","USD 12,803","USD 7,129","USD 10,075","USD 5,155","USD 21,384","USD 11,199",PPP Model
+Dominica,,DMA,Latin America & Caribbean,Upper middle income,0.488,"USD 14,719","USD 8,285","USD 13,680","USD 7,611","USD 10,946","USD 5,605","USD 23,025","USD 12,088",PPP Model
+Denmark,,DNK,Europe & Central Asia,High income,0.878,"USD 23,661","USD 13,957","USD 21,295","USD 12,361","USD 18,501","USD 9,709","USD 36,794","USD 20,413",Numbeo
+Dominican Republic,,DOM,Latin America & Caribbean,Upper middle income,0.395,"USD 16,985","USD 7,719","USD 16,502","USD 7,612","USD 12,289","USD 4,984","USD 27,151","USD 11,060",Numbeo
+Algeria,,DZA,Middle East & North Africa,Upper middle income,0.326,"USD 5,595","USD 3,753","USD 6,446","USD 4,391","USD 3,515","USD 2,146","USD 8,160","USD 5,165",Numbeo
+East Asia & Pacific (excluding high income),,EAP,,,0.000,"USD 14,336","USD 8,048","USD 13,025","USD 7,185","USD 10,683","USD 5,467","USD 22,468","USD 11,764",Aggregate
+Early-demographic dividend,,EAR,,,0.000,"USD 11,134","USD 6,194","USD 10,662","USD 5,934","USD 8,026","USD 4,092","USD 17,376","USD 8,973",Aggregate
+East Asia & Pacific,,EAS,,,0.000,"USD 18,058","USD 9,917","USD 16,139","USD 8,664","USD 13,689","USD 6,959","USD 28,554","USD 14,632",Aggregate
+Europe & Central Asia (excluding high income),,ECA,,,0.000,"USD 10,902","USD 6,058","USD 10,371","USD 5,712","USD 8,189","USD 4,075","USD 17,028","USD 8,770",Aggregate
+Europe & Central Asia,,ECS,,,0.000,"USD 18,727","USD 10,628","USD 16,923","USD 9,418","USD 14,757","USD 7,611","USD 29,477","USD 15,670",Aggregate
+Ecuador,,ECU,Latin America & Caribbean,Upper middle income,0.434,"USD 8,374","USD 5,180","USD 7,621","USD 4,689","USD 6,220","USD 3,379","USD 12,831","USD 7,476",Numbeo
+"Egypt, Arab Rep.",,EGY,Middle East & North Africa,Lower middle income,0.175,"USD 4,209","USD 2,462","USD 4,468","USD 2,685","USD 2,830","USD 1,503","USD 6,403","USD 3,459",Numbeo
+Euro area,,EMU,,,0.000,"USD 22,249","USD 12,684","USD 19,872","USD 11,085","USD 17,712","USD 9,203","USD 35,079","USD 18,774",Aggregate
+Eritrea,,ERI,Sub-Saharan Africa,Low income,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Income Avg
+Spain,,ESP,Europe & Central Asia,High income,0.608,"USD 17,799","USD 9,815","USD 16,513","USD 8,791","USD 15,323","USD 7,559","USD 28,434","USD 14,703",Numbeo
+Estonia,,EST,Europe & Central Asia,High income,0.624,"USD 16,989","USD 9,677","USD 15,229","USD 8,435","USD 12,063","USD 6,283","USD 26,572","USD 14,122",Numbeo
+Ethiopia,,ETH,Sub-Saharan Africa,0,0.345,"USD 10,330","USD 5,779","USD 9,901","USD 5,531","USD 7,304","USD 3,726","USD 16,049","USD 8,325",PPP Model
+European Union,,EUU,,,0.000,"USD 22,249","USD 12,684","USD 19,872","USD 11,085","USD 17,712","USD 9,203","USD 35,079","USD 18,774",Aggregate
+Fragile and conflict affected situations,,FCS,,,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Aggregate
+Finland,,FIN,Europe & Central Asia,High income,0.816,"USD 21,828","USD 12,799","USD 19,643","USD 11,224","USD 16,340","USD 8,866","USD 33,944","USD 18,685",Numbeo
+Fiji,,FJI,East Asia & Pacific,Upper middle income,0.416,"USD 12,497","USD 7,014","USD 11,781","USD 6,567","USD 9,079","USD 4,641","USD 19,487","USD 10,174",PPP Model
+France,,FRA,Europe & Central Asia,High income,0.737,"USD 21,987","USD 12,968","USD 20,565","USD 11,994","USD 16,587","USD 8,857","USD 34,102","USD 18,876",Numbeo
+Faroe Islands,,FRO,Europe & Central Asia,High income,0.905,"USD 27,559","USD 15,683","USD 24,256","USD 13,395","USD 22,408","USD 11,551","USD 43,634","USD 23,402",PPP Model
+"Micronesia, Fed. Sts.",,FSM,East Asia & Pacific,Lower middle income,0.958,"USD 29,217","USD 16,643","USD 25,585","USD 14,119","USD 23,955","USD 12,356","USD 46,311","USD 24,888",PPP Model
+Gabon,,GAB,Sub-Saharan Africa,Upper middle income,0.383,"USD 11,480","USD 6,434","USD 10,902","USD 6,083","USD 8,240","USD 4,208","USD 17,872","USD 9,304",PPP Model
+United Kingdom,,GBR,Europe & Central Asia,High income,0.849,"USD 29,097","USD 15,926","USD 26,318","USD 14,204","USD 25,088","USD 12,543","USD 46,684","USD 24,104",Numbeo
+Georgia,,GEO,Europe & Central Asia,Upper middle income,0.327,"USD 11,757","USD 6,369","USD 11,729","USD 6,301","USD 8,742","USD 4,281","USD 18,550","USD 9,300",Numbeo
+Ghana,,GHA,Sub-Saharan Africa,Lower middle income,0.298,"USD 8,906","USD 4,969","USD 8,646","USD 4,839","USD 6,165","USD 3,140","USD 13,797","USD 7,121",PPP Model
+Gibraltar,,GIB,Europe & Central Asia,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Guinea,,GIN,Sub-Saharan Africa,Lower middle income,0.371,"USD 11,134","USD 6,237","USD 10,602","USD 5,918","USD 7,957","USD 4,062","USD 17,323","USD 9,009",PPP Model
+"Gambia, The",,GMB,Sub-Saharan Africa,Low income,0.251,"USD 7,467","USD 4,154","USD 7,361","USD 4,128","USD 5,042","USD 2,563","USD 11,529","USD 5,915",PPP Model
+Guinea-Bissau,,GNB,Sub-Saharan Africa,Low income,0.323,"USD 9,665","USD 5,401","USD 9,317","USD 5,209","USD 6,769","USD 3,451","USD 14,997","USD 7,762",PPP Model
+Equatorial Guinea,,GNQ,Sub-Saharan Africa,Upper middle income,0.384,"USD 11,522","USD 6,458","USD 10,939","USD 6,103","USD 8,275","USD 4,226","USD 17,939","USD 9,340",PPP Model
+Greece,,GRC,Europe & Central Asia,High income,0.558,"USD 14,891","USD 9,208","USD 13,610","USD 8,238","USD 11,093","USD 6,131","USD 22,802","USD 13,283",Numbeo
+Grenada,,GRD,Latin America & Caribbean,Upper middle income,0.580,"USD 17,531","USD 9,898","USD 16,048","USD 8,910","USD 13,366","USD 6,857","USD 27,517","USD 14,533",PPP Model
+Greenland,,GRL,Europe & Central Asia,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Guatemala,,GTM,Latin America & Caribbean,Upper middle income,0.428,"USD 12,867","USD 7,226","USD 12,099","USD 6,742","USD 9,387","USD 4,800","USD 20,076","USD 10,492",PPP Model
+Guam,,GUM,East Asia & Pacific,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Guyana,,GUY,Latin America & Caribbean,High income,0.370,"USD 11,102","USD 6,219","USD 10,574","USD 5,902","USD 7,931","USD 4,049","USD 17,273","USD 8,982",PPP Model
+High income,,HIC,,,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Aggregate
+"Hong Kong SAR, China",,HKG,East Asia & Pacific,High income,0.719,"USD 37,015","USD 16,492","USD 31,921","USD 13,459","USD 27,163","USD 12,544","USD 61,858","USD 25,793",Numbeo
+Honduras,,HND,Latin America & Caribbean,Lower middle income,0.458,"USD 13,776","USD 7,746","USD 12,877","USD 7,170","USD 10,148","USD 5,193","USD 21,522","USD 11,274",PPP Model
+Heavily indebted poor countries (HIPC),,HPC,,,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Aggregate
+Croatia,,HRV,Europe & Central Asia,High income,0.485,"USD 22,167","USD 12,702","USD 19,834","USD 11,143","USD 17,643","USD 9,101","USD 34,556","USD 18,506",Numbeo
+Haiti,,HTI,Latin America & Caribbean,Lower middle income,0.671,"USD 20,327","USD 11,506","USD 18,369","USD 10,181","USD 15,826","USD 8,132","USD 31,995","USD 16,983",PPP Model
+Hungary,,HUN,Europe & Central Asia,High income,0.480,"USD 16,248","USD 9,836","USD 14,419","USD 8,590","USD 12,418","USD 6,711","USD 25,132","USD 14,312",Numbeo
+IBRD only,,IBD,,,0.000,"USD 11,767","USD 6,577","USD 11,161","USD 6,204","USD 8,577","USD 4,375","USD 18,360","USD 9,534",Aggregate
+IDA & IBRD total,,IBT,,,0.000,"USD 11,420","USD 6,384","USD 10,853","USD 6,038","USD 8,281","USD 4,224","USD 17,806","USD 9,244",Aggregate
+IDA total,,IDA,,,0.000,"USD 10,749","USD 5,989","USD 10,299","USD 5,739","USD 7,700","USD 3,926","USD 16,750","USD 8,661",Aggregate
+IDA blend,,IDB,,,0.000,"USD 11,134","USD 6,194","USD 10,662","USD 5,934","USD 8,026","USD 4,092","USD 17,376","USD 8,973",Aggregate
+Indonesia,,IDN,East Asia & Pacific,Upper middle income,0.299,"USD 9,292","USD 5,019","USD 8,769","USD 4,764","USD 5,486","USD 2,782","USD 14,519","USD 7,203",Numbeo
+IDA only,,IDX,,,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Aggregate
+Isle of Man,,IMN,Europe & Central Asia,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+India,,IND,South Asia,Lower middle income,0.241,"USD 4,917","USD 2,840","USD 4,602","USD 2,655","USD 3,000","USD 1,603","USD 7,599","USD 4,077",Numbeo
+Not classified,,INX,#N/A,#N/A,,"USD 15,648","USD 8,775","USD 14,366","USD 7,943","USD 11,922","USD 6,103","USD 24,598","USD 12,883",Global Avg
+Ireland,,IRL,Europe & Central Asia,High income,0.802,"USD 31,868","USD 17,406","USD 28,832","USD 15,518","USD 28,081","USD 14,389","USD 51,655","USD 26,746",Numbeo
+"Iran, Islamic Rep.",,IRN,Middle East & North Africa,Upper middle income,0.261,"USD 6,614","USD 3,431","USD 6,272","USD 3,203","USD 4,333","USD 2,143","USD 10,518","USD 5,024",Numbeo
+Iraq,,IRQ,Middle East & North Africa,Upper middle income,0.420,"USD 7,158","USD 4,257","USD 8,860","USD 5,448","USD 5,172","USD 2,620","USD 11,022","USD 6,143",Numbeo
+Iceland,,ISL,Europe & Central Asia,High income,1.028,"USD 31,363","USD 17,887","USD 27,296","USD 15,050","USD 25,975","USD 13,408","USD 49,780","USD 26,816",PPP Model
+Israel,,ISR,Middle East & North Africa,High income,0.947,"USD 27,211","USD 15,976","USD 27,665","USD 16,610","USD 22,726","USD 11,745","USD 42,877","USD 23,780",Numbeo
+Italy,,ITA,Europe & Central Asia,High income,0.649,"USD 23,578","USD 13,773","USD 20,644","USD 11,693","USD 17,986","USD 9,602","USD 36,610","USD 19,995",Numbeo
+Jamaica,,JAM,Latin America & Caribbean,Upper middle income,0.602,"USD 18,190","USD 10,277","USD 16,598","USD 9,211","USD 13,941","USD 7,155","USD 28,571","USD 15,109",PPP Model
+Jordan,,JOR,Middle East & North Africa,Lower middle income,0.427,"USD 8,293","USD 4,993","USD 9,717","USD 5,959","USD 6,052","USD 3,175","USD 12,655","USD 7,134",Numbeo
+Japan,,JPN,East Asia & Pacific,High income,0.624,"USD 18,647","USD 10,546","USD 15,565","USD 8,473","USD 11,702","USD 6,432","USD 28,504","USD 14,831",Numbeo
+Kazakhstan,,KAZ,Europe & Central Asia,Upper middle income,0.346,"USD 10,563","USD 5,917","USD 11,089","USD 6,432","USD 8,186","USD 3,923","USD 16,618","USD 8,672",Numbeo
+Kenya,,KEN,Sub-Saharan Africa,Lower middle income,0.321,"USD 9,624","USD 4,731","USD 10,302","USD 5,365","USD 5,201","USD 2,679","USD 15,102","USD 6,705",Numbeo
+Kyrgyz Republic,,KGZ,Europe & Central Asia,Lower middle income,0.302,"USD 9,026","USD 5,038","USD 8,753","USD 4,898","USD 6,261","USD 3,189","USD 13,987","USD 7,222",PPP Model
+Cambodia,,KHM,East Asia & Pacific,Lower middle income,0.330,"USD 9,872","USD 5,518","USD 9,499","USD 5,309","USD 6,935","USD 3,536","USD 15,324","USD 7,937",PPP Model
+Kiribati,,KIR,East Asia & Pacific,Lower middle income,0.618,"USD 18,702","USD 10,571","USD 17,024","USD 9,444","USD 14,390","USD 7,388","USD 29,391","USD 15,557",PPP Model
+St. Kitts and Nevis,,KNA,Latin America & Caribbean,High income,0.688,"USD 20,842","USD 11,803","USD 18,794","USD 10,413","USD 16,285","USD 8,370","USD 32,821","USD 17,437",PPP Model
+"Korea, Rep.",,KOR,East Asia & Pacific,High income,0.594,"USD 21,645","USD 12,294","USD 17,054","USD 9,054","USD 13,202","USD 7,285","USD 33,019","USD 17,222",Numbeo
+Kuwait,,KWT,Middle East & North Africa,High income,0.624,"USD 16,975","USD 8,858","USD 14,957","USD 7,659","USD 11,985","USD 5,771","USD 27,440","USD 13,407",Numbeo
+Latin America & Caribbean (excluding high income),,LAC,,,0.000,"USD 13,129","USD 7,408","USD 12,223","USD 6,832","USD 9,637","USD 4,979","USD 20,434","USD 10,719",Aggregate
+Lao PDR,,LAO,East Asia & Pacific,Lower middle income,0.217,"USD 6,455","USD 3,582","USD 6,445","USD 3,620","USD 4,269","USD 2,167","USD 9,939","USD 5,074",PPP Model
+Lebanon,,LBN,Middle East & North Africa,Lower middle income,0.000,"USD 11,782","USD 5,469","USD 10,756","USD 5,050","USD 8,493","USD 3,903","USD 18,452","USD 7,638",Numbeo
+Liberia,,LBR,Sub-Saharan Africa,Low income,0.455,"USD 13,696","USD 7,700","USD 12,809","USD 7,132","USD 10,081","USD 5,158","USD 21,395","USD 11,205",PPP Model
+Libya,,LBY,Middle East & North Africa,Upper middle income,0.459,"USD 13,823","USD 7,773","USD 12,918","USD 7,192","USD 10,188","USD 5,214","USD 21,598","USD 11,315",PPP Model
+St. Lucia,,LCA,Latin America & Caribbean,Upper middle income,0.514,"USD 15,515","USD 8,741","USD 14,354","USD 7,980","USD 11,624","USD 5,956","USD 24,294","USD 12,777",PPP Model
+Latin America & Caribbean,,LCN,,,0.000,"USD 16,786","USD 9,508","USD 15,277","USD 8,499","USD 12,805","USD 6,606","USD 26,301","USD 13,923",Aggregate
+Least developed countries: UN classification,,LDC,,,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Aggregate
+Low income,,LIC,,,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Aggregate
+Liechtenstein,,LIE,Europe & Central Asia,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Sri Lanka,,LKA,South Asia,Lower middle income,0.289,"USD 9,980","USD 5,035","USD 9,351","USD 4,710","USD 6,550","USD 3,150","USD 15,419","USD 6,939",Numbeo
+Lower middle income,,LMC,,,0.000,"USD 11,134","USD 6,194","USD 10,662","USD 5,934","USD 8,026","USD 4,092","USD 17,376","USD 8,973",Aggregate
+Low & middle income,,LMY,,,0.000,"USD 11,420","USD 6,384","USD 10,853","USD 6,038","USD 8,281","USD 4,224","USD 17,806","USD 9,244",Aggregate
+Lesotho,,LSO,Sub-Saharan Africa,Lower middle income,0.324,"USD 9,689","USD 5,414","USD 9,338","USD 5,221","USD 6,788","USD 3,461","USD 15,034","USD 7,782",PPP Model
+Late-demographic dividend,,LTE,,,0.000,"USD 12,352","USD 6,933","USD 11,622","USD 6,453","USD 9,088","USD 4,637","USD 19,272","USD 10,053",Aggregate
+Lithuania,,LTU,Europe & Central Asia,High income,0.531,"USD 20,222","USD 11,377","USD 17,743","USD 9,633","USD 16,001","USD 7,773","USD 31,466","USD 16,437",Numbeo
+Luxembourg,,LUX,Europe & Central Asia,High income,0.883,"USD 31,546","USD 16,772","USD 28,467","USD 14,714","USD 26,227","USD 13,291","USD 51,934","USD 26,124",Numbeo
+Latvia,,LVA,Europe & Central Asia,High income,0.537,"USD 17,526","USD 10,339","USD 15,582","USD 8,963","USD 11,420","USD 6,364","USD 26,836","USD 14,738",Numbeo
+"Macao SAR, China",,MAC,East Asia & Pacific,High income,0.567,"USD 17,133","USD 9,670","USD 15,715","USD 8,727","USD 13,019","USD 6,678","USD 26,880","USD 14,185",PPP Model
+St. Martin (French part),,MAF,Latin America & Caribbean,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Morocco,,MAR,Middle East & North Africa,Lower middle income,0.399,"USD 7,533","USD 4,061","USD 7,669","USD 4,177","USD 5,592","USD 2,576","USD 11,763","USD 5,836",Numbeo
+Monaco,,MCO,Europe & Central Asia,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Moldova,,MDA,Europe & Central Asia,Upper middle income,0.407,"USD 12,777","USD 6,447","USD 11,368","USD 5,662","USD 9,444","USD 4,312","USD 20,622","USD 9,636",Numbeo
+Madagascar,,MDG,Sub-Saharan Africa,Low income,0.289,"USD 8,640","USD 4,818","USD 8,410","USD 4,708","USD 5,955","USD 3,032","USD 13,377","USD 6,897",PPP Model
+Maldives,,MDV,South Asia,Upper middle income,0.511,"USD 15,409","USD 8,681","USD 14,265","USD 7,931","USD 11,534","USD 5,909","USD 24,126","USD 12,686",PPP Model
+"Middle East, North Africa, Afghanistan & Pakistan",,MEA,,,0.000,"USD 12,440","USD 6,838","USD 11,871","USD 6,555","USD 9,438","USD 4,640","USD 19,689","USD 10,099",Aggregate
+Mexico,,MEX,Latin America & Caribbean,Upper middle income,0.542,"USD 14,708","USD 8,070","USD 13,473","USD 7,364","USD 11,067","USD 5,318","USD 23,177","USD 11,802",Numbeo
+Marshall Islands,,MHL,East Asia & Pacific,Upper middle income,0.943,"USD 28,735","USD 16,364","USD 25,199","USD 13,909","USD 23,504","USD 12,122","USD 45,533","USD 24,455",PPP Model
+Middle income,,MIC,,,0.000,"USD 11,767","USD 6,577","USD 11,161","USD 6,204","USD 8,577","USD 4,375","USD 18,360","USD 9,534",Aggregate
+North Macedonia,,MKD,Europe & Central Asia,Upper middle income,0.344,"USD 8,101","USD 4,921","USD 7,775","USD 4,640","USD 6,045","USD 3,347","USD 12,260","USD 6,953",Numbeo
+Mali,,MLI,Sub-Saharan Africa,Low income,0.330,"USD 9,883","USD 5,525","USD 9,509","USD 5,315","USD 6,944","USD 3,541","USD 15,342","USD 7,946",PPP Model
+Malta,,MLT,Middle East & North Africa,High income,0.628,"USD 19,449","USD 10,861","USD 16,422","USD 8,838","USD 16,009","USD 8,180","USD 31,397","USD 16,523",Numbeo
+Myanmar,,MMR,East Asia & Pacific,Lower middle income,0.227,"USD 6,738","USD 3,742","USD 6,702","USD 3,763","USD 4,483","USD 2,277","USD 10,382","USD 5,308",PPP Model
+"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",,MNA,,,0.000,"USD 9,108","USD 5,124","USD 9,065","USD 5,142","USD 6,522","USD 3,324","USD 14,122","USD 7,367",Aggregate
+Montenegro,,MNE,Europe & Central Asia,Upper middle income,0.389,"USD 13,773","USD 7,856","USD 13,914","USD 7,863","USD 10,847","USD 5,396","USD 21,643","USD 11,558",Numbeo
+Mongolia,,MNG,East Asia & Pacific,Upper middle income,0.353,"USD 10,565","USD 5,913","USD 10,106","USD 5,644","USD 7,494","USD 3,824","USD 16,421","USD 8,525",PPP Model
+Northern Mariana Islands,,MNP,East Asia & Pacific,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Mozambique,,MOZ,Sub-Saharan Africa,Low income,0.385,"USD 11,557","USD 6,478","USD 10,969","USD 6,120","USD 8,303","USD 4,241","USD 17,994","USD 9,370",PPP Model
+Mauritania,,MRT,Sub-Saharan Africa,Lower middle income,0.286,"USD 8,549","USD 4,767","USD 8,329","USD 4,664","USD 5,884","USD 2,996","USD 13,234","USD 6,821",PPP Model
+Mauritius,,MUS,Sub-Saharan Africa,Upper middle income,0.377,"USD 9,844","USD 5,905","USD 8,735","USD 5,133","USD 7,307","USD 3,783","USD 15,086","USD 8,484",Numbeo
+Malawi,,MWI,Sub-Saharan Africa,Low income,0.281,"USD 8,396","USD 4,680","USD 8,193","USD 4,588","USD 5,764","USD 2,934","USD 12,992","USD 6,692",PPP Model
+Malaysia,,MYS,East Asia & Pacific,Upper middle income,0.306,"USD 9,817","USD 5,892","USD 8,675","USD 5,115","USD 7,185","USD 3,818","USD 14,913","USD 8,314",Numbeo
+North America,,NAC,,,0.000,"USD 30,518","USD 17,720","USD 26,929","USD 15,263","USD 25,815","USD 13,478","USD 48,406","USD 26,588",Aggregate
+Namibia,,NAM,Sub-Saharan Africa,Lower middle income,0.378,"USD 11,328","USD 6,347","USD 10,770","USD 6,010","USD 8,115","USD 4,144","USD 17,631","USD 9,174",PPP Model
+New Caledonia,,NCL,East Asia & Pacific,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Niger,,NER,Sub-Saharan Africa,Low income,0.359,"USD 10,750","USD 6,018","USD 10,267","USD 5,733","USD 7,644","USD 3,901","USD 16,715","USD 8,682",PPP Model
+Nigeria,,NGA,Sub-Saharan Africa,Lower middle income,0.119,"USD 18,061","USD 8,211","USD 19,365","USD 9,734","USD 11,597","USD 5,519","USD 29,266","USD 12,114",Numbeo
+Nicaragua,,NIC,Latin America & Caribbean,Lower middle income,0.327,"USD 9,784","USD 5,468","USD 9,422","USD 5,267","USD 6,865","USD 3,500","USD 15,185","USD 7,862",PPP Model
+Netherlands,,NLD,Europe & Central Asia,High income,0.792,"USD 36,721","USD 19,730","USD 32,718","USD 17,237","USD 32,621","USD 16,027","USD 59,008","USD 29,802",Numbeo
+Norway,,NOR,Europe & Central Asia,High income,0.851,"USD 23,809","USD 14,229","USD 20,869","USD 12,231","USD 19,976","USD 10,457","USD 36,912","USD 20,754",Numbeo
+Nepal,,NPL,South Asia,Lower middle income,0.252,"USD 3,966","USD 2,379","USD 3,978","USD 2,385","USD 2,412","USD 1,306","USD 5,959","USD 3,309",Numbeo
+Nauru,,NRU,East Asia & Pacific,High income,0.960,"USD 29,274","USD 16,676","USD 25,630","USD 14,144","USD 24,007","USD 12,384","USD 46,402","USD 24,938",PPP Model
+New Zealand,,NZL,East Asia & Pacific,High income,0.886,"USD 20,703","USD 12,438","USD 18,650","USD 11,075","USD 17,472","USD 9,478","USD 32,204","USD 18,329",Numbeo
+OECD members,,OED,,,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Aggregate
+Oman,,OMN,Middle East & North Africa,High income,0.486,"USD 12,408","USD 6,981","USD 12,185","USD 6,981","USD 9,273","USD 4,768","USD 19,014","USD 9,899",Numbeo
+Other small states,,OSS,,,0.000,"USD 15,648","USD 8,775","USD 14,366","USD 7,943","USD 11,922","USD 6,103","USD 24,598","USD 12,883",Aggregate
+Pakistan,,PAK,Middle East & North Africa,Lower middle income,0.237,"USD 3,988","USD 2,336","USD 4,659","USD 2,870","USD 2,405","USD 1,284","USD 6,080","USD 3,297",Numbeo
+Panama,,PAN,Latin America & Caribbean,High income,0.463,"USD 18,521","USD 10,228","USD 18,408","USD 10,211","USD 14,532","USD 7,381","USD 29,493","USD 15,220",Numbeo
+Peru,,PER,Latin America & Caribbean,Upper middle income,0.475,"USD 11,777","USD 6,275","USD 11,153","USD 5,938","USD 9,048","USD 4,017","USD 18,414","USD 8,998",Numbeo
+Philippines,,PHL,East Asia & Pacific,Lower middle income,0.338,"USD 8,964","USD 5,272","USD 8,158","USD 4,780","USD 5,971","USD 3,133","USD 13,515","USD 7,312",Numbeo
+Palau,,PLW,East Asia & Pacific,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Papua New Guinea,,PNG,East Asia & Pacific,Lower middle income,0.617,"USD 18,660","USD 10,547","USD 16,989","USD 9,425","USD 14,353","USD 7,368","USD 29,324","USD 15,520",PPP Model
+Poland,,POL,Europe & Central Asia,High income,0.490,"USD 15,917","USD 9,005","USD 13,487","USD 7,396","USD 13,194","USD 6,833","USD 25,291","USD 13,452",Numbeo
+Pre-demographic dividend,,PRE,,,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Aggregate
+Puerto Rico (US),,PRI,Latin America & Caribbean,High income,0.783,"USD 20,717","USD 11,691","USD 17,330","USD 9,296","USD 14,687","USD 7,327","USD 32,366","USD 16,961",Numbeo
+"Korea, Dem. People's Rep.",,PRK,East Asia & Pacific,Low income,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Income Avg
+Portugal,,PRT,Europe & Central Asia,High income,0.559,"USD 20,708","USD 11,271","USD 18,928","USD 10,090","USD 17,437","USD 8,677","USD 33,206","USD 16,964",Numbeo
+Paraguay,,PRY,Latin America & Caribbean,Upper middle income,0.346,"USD 10,375","USD 5,805","USD 9,940","USD 5,553","USD 7,340","USD 3,745","USD 16,120","USD 8,363",PPP Model
+West Bank and Gaza,,PSE,Middle East & North Africa,Lower middle income,0.593,"USD 17,930","USD 10,127","USD 16,381","USD 9,092","USD 13,713","USD 7,037","USD 28,154","USD 14,881",PPP Model
+Pacific island small states,,PSS,,,0.000,"USD 18,058","USD 9,917","USD 16,139","USD 8,664","USD 13,689","USD 6,959","USD 28,554","USD 14,632",Aggregate
+Post-demographic dividend,,PST,,,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Aggregate
+French Polynesia,,PYF,East Asia & Pacific,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Qatar,,QAT,Middle East & North Africa,High income,0.608,"USD 23,666","USD 11,398","USD 20,973","USD 10,008","USD 19,829","USD 7,913","USD 39,723","USD 18,155",Numbeo
+Romania,,ROU,Europe & Central Asia,High income,0.409,"USD 14,402","USD 8,400","USD 13,241","USD 7,641","USD 11,133","USD 5,791","USD 22,352","USD 12,180",Numbeo
+Russian Federation,,RUS,Europe & Central Asia,High income,0.314,"USD 10,618","USD 5,963","USD 9,197","USD 5,042","USD 8,159","USD 4,064","USD 16,571","USD 8,650",Numbeo
+Rwanda,,RWA,Sub-Saharan Africa,Low income,0.269,"USD 8,034","USD 4,475","USD 7,870","USD 4,410","USD 5,481","USD 2,789","USD 12,422","USD 6,388",PPP Model
+South Asia,,SAS,,,0.000,"USD 8,231","USD 4,608","USD 7,779","USD 4,341","USD 5,633","USD 2,898","USD 12,724","USD 6,576",Aggregate
+Saudi Arabia,,SAU,Middle East & North Africa,High income,0.492,"USD 12,110","USD 6,859","USD 11,655","USD 6,669","USD 9,473","USD 4,935","USD 18,832","USD 9,917",Numbeo
+Sudan,,SDN,Sub-Saharan Africa,Low income,0.465,"USD 14,010","USD 7,879","USD 13,077","USD 7,279","USD 10,345","USD 5,295","USD 21,895","USD 11,476",PPP Model
+Senegal,,SEN,Sub-Saharan Africa,Lower middle income,0.350,"USD 10,476","USD 5,862","USD 10,028","USD 5,602","USD 7,422","USD 3,787","USD 16,281","USD 8,449",PPP Model
+Singapore,,SGP,East Asia & Pacific,High income,0.602,"USD 41,339","USD 18,404","USD 36,290","USD 15,511","USD 32,606","USD 14,828","USD 69,067","USD 28,795",Numbeo
+Solomon Islands,,SLB,East Asia & Pacific,Lower middle income,0.723,"USD 21,929","USD 12,429","USD 19,687","USD 10,901","USD 17,260","USD 8,876","USD 34,568","USD 18,396",PPP Model
+Sierra Leone,,SLE,Sub-Saharan Africa,Low income,0.229,"USD 6,811","USD 3,783","USD 6,768","USD 3,800","USD 4,538","USD 2,305","USD 10,497","USD 5,368",PPP Model
+El Salvador,,SLV,Latin America & Caribbean,Upper middle income,0.421,"USD 12,642","USD 7,098","USD 11,906","USD 6,636","USD 9,200","USD 4,703","USD 19,719","USD 10,299",PPP Model
+San Marino,,SMR,Europe & Central Asia,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+"Somalia, Fed. Rep.",,SOM,Sub-Saharan Africa,Low income,0.393,"USD 11,797","USD 6,615","USD 11,177","USD 6,234","USD 8,500","USD 4,343","USD 18,375","USD 9,575",PPP Model
+Serbia,,SRB,Europe & Central Asia,Upper middle income,0.417,"USD 14,092","USD 7,986","USD 13,084","USD 7,302","USD 10,336","USD 5,409","USD 22,065","USD 11,658",Numbeo
+Sub-Saharan Africa (excluding high income),,SSA,,,0.000,"USD 10,608","USD 5,906","USD 10,346","USD 5,778","USD 7,471","USD 3,821","USD 16,510","USD 8,522",Aggregate
+South Sudan,,SSD,Sub-Saharan Africa,Low income,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Income Avg
+Sub-Saharan Africa,,SSF,,,0.000,"USD 10,608","USD 5,906","USD 10,346","USD 5,778","USD 7,471","USD 3,821","USD 16,510","USD 8,522",Aggregate
+Small states,,SST,,,0.000,"USD 15,648","USD 8,775","USD 14,366","USD 7,943","USD 11,922","USD 6,103","USD 24,598","USD 12,883",Aggregate
+Sao Tome and Principe,,STP,Sub-Saharan Africa,Lower middle income,0.559,"USD 16,890","USD 9,530","USD 15,511","USD 8,615","USD 12,808","USD 6,568","USD 26,490","USD 13,973",PPP Model
+Suriname,,SUR,Latin America & Caribbean,Upper middle income,0.319,"USD 9,552","USD 5,336","USD 9,217","USD 5,154","USD 6,679","USD 3,404","USD 14,818","USD 7,666",PPP Model
+Slovak Republic,,SVK,Europe & Central Asia,High income,0.543,"USD 18,862","USD 11,230","USD 16,885","USD 9,881","USD 15,398","USD 8,049","USD 29,324","USD 16,407",Numbeo
+Slovenia,,SVN,Europe & Central Asia,High income,0.596,"USD 24,503","USD 13,890","USD 21,745","USD 12,106","USD 18,086","USD 9,849","USD 38,630","USD 20,510",Numbeo
+Sweden,,SWE,Europe & Central Asia,High income,0.803,"USD 19,539","USD 11,794","USD 17,976","USD 10,661","USD 15,127","USD 8,265","USD 29,893","USD 16,944",Numbeo
+Eswatini,,SWZ,Sub-Saharan Africa,Lower middle income,0.331,"USD 9,917","USD 5,544","USD 9,538","USD 5,331","USD 6,971","USD 3,555","USD 15,396","USD 7,975",PPP Model
+Sint Maarten (Dutch part),,SXM,Latin America & Caribbean,High income,0.771,"USD 23,426","USD 13,293","USD 20,911","USD 11,570","USD 18,612","USD 9,578","USD 36,974","USD 19,721",PPP Model
+Seychelles,,SYC,Sub-Saharan Africa,High income,0.537,"USD 16,216","USD 9,143","USD 14,945","USD 8,305","USD 12,226","USD 6,267","USD 25,414","USD 13,387",PPP Model
+Syrian Arab Republic,,SYR,Middle East & North Africa,Low income,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Income Avg
+Turks and Caicos Islands,,TCA,Latin America & Caribbean,High income,0.988,"USD 30,142","USD 17,179","USD 26,324","USD 14,521","USD 24,823","USD 12,808","USD 47,806","USD 25,718",PPP Model
+Chad,,TCD,Sub-Saharan Africa,Low income,0.351,"USD 10,503","USD 5,878","USD 10,052","USD 5,615","USD 7,444","USD 3,798","USD 16,324","USD 8,472",PPP Model
+East Asia & Pacific (IDA & IBRD countries),,TEA,,,0.000,"USD 14,336","USD 8,048","USD 13,025","USD 7,185","USD 10,683","USD 5,467","USD 22,468","USD 11,764",Aggregate
+Europe & Central Asia (IDA & IBRD countries),,TEC,,,0.000,"USD 10,902","USD 6,058","USD 10,371","USD 5,712","USD 8,189","USD 4,075","USD 17,028","USD 8,770",Aggregate
+Togo,,TGO,Sub-Saharan Africa,Low income,0.333,"USD 9,956","USD 5,566","USD 9,572","USD 5,350","USD 7,002","USD 3,571","USD 15,457","USD 8,008",PPP Model
+Thailand,,THA,East Asia & Pacific,Upper middle income,0.297,"USD 12,496","USD 6,317","USD 10,518","USD 5,091","USD 7,786","USD 3,836","USD 19,641","USD 9,031",Numbeo
+Tajikistan,,TJK,Europe & Central Asia,Lower middle income,0.248,"USD 7,388","USD 4,109","USD 7,290","USD 4,089","USD 4,981","USD 2,532","USD 11,405","USD 5,849",PPP Model
+Turkmenistan,,TKM,Europe & Central Asia,Upper middle income,0.323,"USD 9,670","USD 5,404","USD 9,321","USD 5,211","USD 6,773","USD 3,453","USD 15,005","USD 7,766",PPP Model
+Latin America & the Caribbean (IDA & IBRD countries),,TLA,,,0.000,"USD 13,129","USD 7,408","USD 12,223","USD 6,832","USD 9,637","USD 4,979","USD 20,434","USD 10,719",Aggregate
+Timor-Leste,,TLS,East Asia & Pacific,Lower middle income,0.301,"USD 8,999","USD 5,022","USD 8,729","USD 4,884","USD 6,239","USD 3,178","USD 13,944","USD 7,199",PPP Model
+"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",,TMN,,,0.000,"USD 9,108","USD 5,124","USD 9,065","USD 5,142","USD 6,522","USD 3,324","USD 14,122","USD 7,367",Aggregate
+Tonga,,TON,East Asia & Pacific,Upper middle income,0.000,"USD 12,352","USD 6,933","USD 11,622","USD 6,453","USD 9,088","USD 4,637","USD 19,272","USD 10,053",Income Avg
+South Asia (IDA & IBRD),,TSA,,,0.000,"USD 8,231","USD 4,608","USD 7,779","USD 4,341","USD 5,633","USD 2,898","USD 12,724","USD 6,576",Aggregate
+Sub-Saharan Africa (IDA & IBRD countries),,TSS,,,0.000,"USD 10,608","USD 5,906","USD 10,346","USD 5,778","USD 7,471","USD 3,821","USD 16,510","USD 8,522",Aggregate
+Trinidad and Tobago,,TTO,Latin America & Caribbean,High income,0.516,"USD 15,552","USD 8,763","USD 14,386","USD 7,998","USD 11,656","USD 5,972","USD 24,354","USD 12,810",PPP Model
+Tunisia,,TUN,Middle East & North Africa,Lower middle income,0.288,"USD 6,072","USD 3,763","USD 6,300","USD 3,883","USD 4,323","USD 2,316","USD 9,149","USD 5,297",Numbeo
+Turkiye,,TUR,Europe & Central Asia,Upper middle income,0.348,"USD 13,757","USD 7,565","USD 12,914","USD 6,961","USD 11,185","USD 5,574","USD 21,523","USD 10,983",Numbeo
+Tuvalu,,TUV,East Asia & Pacific,Upper middle income,0.000,"USD 12,352","USD 6,933","USD 11,622","USD 6,453","USD 9,088","USD 4,637","USD 19,272","USD 10,053",Income Avg
+Tanzania,,TZA,Sub-Saharan Africa,Lower middle income,0.281,"USD 8,391","USD 4,677","USD 8,189","USD 4,586","USD 5,760","USD 2,932","USD 12,985","USD 6,688",PPP Model
+Uganda,,UGA,Sub-Saharan Africa,Low income,0.329,"USD 9,855","USD 5,509","USD 9,484","USD 5,301","USD 6,922","USD 3,529","USD 15,298","USD 7,923",PPP Model
+Ukraine,,UKR,Europe & Central Asia,Upper middle income,0.291,"USD 8,636","USD 4,993","USD 6,802","USD 3,749","USD 6,488","USD 3,314","USD 13,301","USD 7,126",Numbeo
+Upper middle income,,UMC,,,0.000,"USD 12,352","USD 6,933","USD 11,622","USD 6,453","USD 9,088","USD 4,637","USD 19,272","USD 10,053",Aggregate
+Uruguay,,URY,Latin America & Caribbean,High income,0.656,"USD 15,541","USD 9,486","USD 14,088","USD 8,433","USD 11,491","USD 6,321","USD 23,779","USD 13,632",Numbeo
+United States,,USA,North America,High income,1.000,"USD 29,831","USD 17,086","USD 26,925","USD 15,234","USD 25,444","USD 12,898","USD 47,632","USD 25,780",Numbeo
+Uzbekistan,,UZB,Europe & Central Asia,Lower middle income,0.266,"USD 9,581","USD 4,680","USD 10,295","USD 5,385","USD 7,375","USD 3,275","USD 15,327","USD 6,831",Numbeo
+St. Vincent and the Grenadines,,VCT,Latin America & Caribbean,Upper middle income,0.541,"USD 16,320","USD 9,203","USD 15,032","USD 8,353","USD 12,316","USD 6,314","USD 25,580","USD 13,477",PPP Model
+"Venezuela, RB",,VEN,Latin America & Caribbean,0,0.000,"USD 9,089","USD 6,016","USD 8,719","USD 5,785","USD 6,542","USD 3,899","USD 13,012","USD 8,069",Numbeo
+British Virgin Islands,,VGB,Latin America & Caribbean,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Virgin Islands (U.S.),,VIR,Latin America & Caribbean,High income,0.000,"USD 22,128","USD 12,429","USD 19,753","USD 10,854","USD 17,500","USD 8,975","USD 35,020","USD 18,450",Income Avg
+Viet Nam,,VNM,East Asia & Pacific,Lower middle income,0.288,"USD 9,656","USD 5,229","USD 8,751","USD 4,720","USD 6,649","USD 3,264","USD 15,257","USD 7,643",Numbeo
+Vanuatu,,VUT,East Asia & Pacific,Lower middle income,0.946,"USD 28,832","USD 16,420","USD 25,277","USD 13,951","USD 23,594","USD 12,168","USD 45,688","USD 24,542",PPP Model
+World,,WLD,,,0.000,"USD 15,648","USD 8,775","USD 14,366","USD 7,943","USD 11,922","USD 6,103","USD 24,598","USD 12,883",Aggregate
+Samoa,,WSM,East Asia & Pacific,Upper middle income,0.617,"USD 18,675","USD 10,555","USD 17,001","USD 9,432","USD 14,366","USD 7,375","USD 29,347","USD 15,532",PPP Model
+Kosovo,,XKX,Europe & Central Asia,Upper middle income,0.393,"USD 7,350","USD 4,466","USD 6,210","USD 3,716","USD 5,468","USD 2,936","USD 11,278","USD 6,426",Numbeo
+"Yemen, Rep.",,YEM,Middle East & North Africa,Low income,0.000,"USD 9,977","USD 5,581","USD 9,573","USD 5,349","USD 7,047","USD 3,595","USD 15,499","USD 8,037",Income Avg
+South Africa,,ZAF,Sub-Saharan Africa,Upper middle income,0.405,"USD 12,478","USD 7,259","USD 16,952","USD 9,926","USD 8,893","USD 4,933","USD 19,323","USD 10,536",Numbeo
+Zambia,,ZMB,Sub-Saharan Africa,Lower middle income,0.282,"USD 8,406","USD 4,686","USD 8,202","USD 4,593","USD 5,772","USD 2,938","USD 13,008","USD 6,701",PPP Model
+Zimbabwe,,ZWE,Sub-Saharan Africa,Lower middle income,0.421,"USD 9,682","USD 5,766","USD 11,654","USD 7,275","USD 6,024","USD 3,398","USD 14,830","USD 8,247",Numbeo
+Switzerland,Geneva,CHE,Europe & Central Asia,High income,1.078,"USD 41,982","USD 22,028","USD 37,533","USD 19,228","USD 36,264","USD 16,918","USD 68,604","USD 33,945",Numbeo City
+Switzerland,Zurich,CHE,Europe & Central Asia,High income,1.078,"USD 49,570","USD 23,121","USD 44,610","USD 20,204","USD 37,827","USD 17,565","USD 81,733","USD 35,503",Numbeo City
+Switzerland,Lausanne,CHE,Europe & Central Asia,High income,1.078,"USD 36,949","USD 20,328","USD 32,848","USD 17,671","USD 28,607","USD 14,864","USD 59,662","USD 31,000",Numbeo City
+Switzerland,Basel,CHE,Europe & Central Asia,High income,1.078,"USD 34,994","USD 19,294","USD 30,980","USD 16,674","USD 28,456","USD 13,850","USD 55,905","USD 28,953",Numbeo City
+United States,"Miami, FL",USA,North America,High income,1.000,"USD 50,518","USD 24,193","USD 46,181","USD 21,780","USD 42,370","USD 18,557","USD 83,167","USD 37,230",Numbeo City
+Switzerland,Bern,CHE,Europe & Central Asia,High income,1.078,"USD 33,736","USD 18,093","USD 29,833","USD 15,576","USD 26,734","USD 13,057","USD 53,862","USD 26,971",Numbeo City
+United Kingdom,London,GBR,Europe & Central Asia,High income,0.849,"USD 54,751","USD 26,922","USD 50,391","USD 24,494","USD 52,126","USD 23,680","USD 89,905","USD 41,762",Numbeo City
+Luxembourg,Luxembourg,LUX,Europe & Central Asia,High income,0.883,"USD 33,911","USD 17,611","USD 30,742","USD 15,521","USD 28,754","USD 14,726","USD 56,193","USD 27,636",Numbeo City
+Norway,Oslo,NOR,Europe & Central Asia,High income,0.851,"USD 27,841","USD 16,211","USD 24,593","USD 14,042","USD 25,823","USD 12,946","USD 43,911","USD 24,102",Numbeo City
+Israel,Tel Aviv-Yafo,ISR,Middle East & North Africa,High income,0.947,"USD 37,502","USD 19,914","USD 37,463","USD 20,446","USD 32,951","USD 14,648","USD 60,570","USD 30,194",Numbeo City
+United States,"Atlanta, GA",USA,North America,High income,1.000,"USD 36,373","USD 18,340","USD 32,971","USD 16,336","USD 29,831","USD 14,605","USD 58,343","USD 27,199",Numbeo City
+United States,"Honolulu, HI",USA,North America,High income,1.000,"USD 52,291","USD 28,669","USD 47,461","USD 25,656","USD 40,732","USD 20,039","USD 83,608","USD 42,942",Numbeo City
+United States,"Las Vegas, NV",USA,North America,High income,1.000,"USD 27,982","USD 16,181","USD 25,251","USD 14,436","USD 23,869","USD 12,554","USD 44,778","USD 24,550",Numbeo City
+United States,"Los Angeles, CA",USA,North America,High income,1.000,"USD 51,874","USD 24,248","USD 47,498","USD 21,869","USD 38,502","USD 20,062","USD 86,054","USD 37,689",Numbeo City
+United States,"New York, NY",USA,North America,High income,1.000,"USD 77,078","USD 30,483","USD 71,013","USD 27,616","USD 58,611","USD 23,638","USD 130,141","USD 47,886",Numbeo City
+United States,"San Francisco, CA",USA,North America,High income,1.000,"USD 53,603","USD 28,431","USD 48,929","USD 25,632","USD 48,034","USD 23,151","USD 87,881","USD 44,110",Numbeo City
+United States,"Washington, DC",USA,North America,High income,1.000,"USD 49,266","USD 25,902","USD 45,026","USD 23,397","USD 38,553","USD 18,538","USD 80,995","USD 40,381",Numbeo City
+United Kingdom,Edinburgh,GBR,Europe & Central Asia,High income,0.849,"USD 34,821","USD 17,421","USD 31,679","USD 15,589","USD 28,725","USD 13,237","USD 56,854","USD 26,678",Numbeo City
+United States,"San Diego, CA",USA,North America,High income,1.000,"USD 47,259","USD 24,059","USD 43,219","USD 21,733","USD 43,160","USD 20,759","USD 78,536","USD 37,954",Numbeo City
+United States,"Boston, MA",USA,North America,High income,1.000,"USD 53,510","USD 24,657","USD 48,963","USD 22,194","USD 46,894","USD 21,047","USD 88,635","USD 38,095",Numbeo City
+Denmark,Copenhagen,DNK,Europe & Central Asia,High income,0.878,"USD 34,485","USD 17,614","USD 31,479","USD 15,747","USD 29,337","USD 13,698","USD 55,358","USD 26,261",Numbeo City
+Italy,Milan,ITA,Europe & Central Asia,High income,0.649,"USD 41,096","USD 19,297","USD 37,232","USD 16,781","USD 31,144","USD 14,237","USD 67,113","USD 29,079",Numbeo City
+Netherlands,Amsterdam,NLD,Europe & Central Asia,High income,0.792,"USD 49,184","USD 24,732","USD 44,272","USD 21,833","USD 47,092","USD 20,660","USD 80,756","USD 38,256",Numbeo City
+Netherlands,Eindhoven,NLD,Europe & Central Asia,High income,0.792,"USD 35,034","USD 18,986","USD 31,168","USD 16,564","USD 32,372","USD 16,129","USD 56,018","USD 28,514",Numbeo City
+Netherlands,Rotterdam,NLD,Europe & Central Asia,High income,0.792,"USD 40,209","USD 21,927","USD 35,937","USD 19,256","USD 34,859","USD 17,468","USD 64,900","USD 33,457",Numbeo City
+Cyprus,Limassol,CYP,Europe & Central Asia,High income,0.614,"USD 23,690","USD 12,311","USD 21,363","USD 10,846","USD 20,357","USD 10,295","USD 38,601","USD 18,844",Numbeo City
+Ireland,Dublin,IRL,Europe & Central Asia,High income,0.802,"USD 41,461","USD 20,966","USD 37,828","USD 18,846","USD 36,863","USD 18,176","USD 68,742","USD 33,008",Numbeo City
+Italy,Bologna,ITA,Europe & Central Asia,High income,0.649,"USD 28,783","USD 16,083","USD 25,533","USD 13,816","USD 21,212","USD 11,378","USD 45,541","USD 23,786",Numbeo City
+United States,"Seattle, WA",USA,North America,High income,1.000,"USD 45,928","USD 23,907","USD 41,819","USD 21,462","USD 37,203","USD 18,102","USD 74,592","USD 36,429",Numbeo City
+United States,"Portland, OR",USA,North America,High income,1.000,"USD 37,580","USD 19,731","USD 34,127","USD 17,661","USD 30,985","USD 15,315","USD 60,643","USD 29,817",Numbeo City
+Canada,Vancouver,CAN,North America,High income,0.840,"USD 37,258","USD 19,257","USD 33,751","USD 16,942","USD 30,175","USD 15,359","USD 60,443","USD 29,259",Numbeo City
+Canada,Victoria,CAN,North America,High income,0.840,"USD 32,244","USD 19,050","USD 28,800","USD 16,634","USD 26,865","USD 13,861","USD 51,168","USD 28,641",Numbeo City
+Canada,London,CAN,North America,High income,0.840,"USD 26,253","USD 15,605","USD 23,294","USD 13,534","USD 21,901","USD 12,006","USD 41,136","USD 23,106",Numbeo City
+United Kingdom,Liverpool,GBR,Europe & Central Asia,High income,0.849,"USD 29,135","USD 13,942","USD 26,362","USD 12,343","USD 23,206","USD 10,498","USD 46,747","USD 20,536",Numbeo City
+Norway,Trondheim,NOR,Europe & Central Asia,High income,0.851,"USD 24,535","USD 14,527","USD 21,503","USD 12,471","USD 21,316","USD 11,170","USD 37,836","USD 20,990",Numbeo City
+Australia,Sydney,AUS,East Asia & Pacific,High income,0.896,"USD 36,043","USD 15,743","USD 32,754","USD 13,987","USD 30,363","USD 12,510","USD 59,405","USD 23,964",Numbeo City
+Germany,Munich,DEU,Europe & Central Asia,High income,0.759,"USD 39,063","USD 20,235","USD 34,762","USD 17,621","USD 30,385","USD 15,314","USD 63,898","USD 31,200",Numbeo City
+Austria,Vienna,AUT,Europe & Central Asia,High income,0.769,"USD 26,724","USD 13,964","USD 23,721","USD 12,001","USD 20,280","USD 9,895","USD 42,443","USD 20,491",Numbeo City
+United Kingdom,Belfast,GBR,Europe & Central Asia,High income,0.849,"USD 27,927","USD 15,368","USD 25,104","USD 13,584","USD 23,201","USD 11,957","USD 44,023","USD 22,603",Numbeo City
+United States,"Austin, TX",USA,North America,High income,1.000,"USD 36,700","USD 17,537","USD 33,416","USD 15,699","USD 29,803","USD 12,635","USD 60,684","USD 27,130",Numbeo City
+United States,"Baltimore, MD",USA,North America,High income,1.000,"USD 28,376","USD 16,761","USD 25,531","USD 14,905","USD 28,098","USD 11,835","USD 44,635","USD 24,900",Numbeo City
+United States,"Chicago, IL",USA,North America,High income,1.000,"USD 42,080","USD 19,613","USD 38,378","USD 17,576","USD 34,779","USD 15,170","USD 69,296","USD 30,025",Numbeo City
+United States,"Columbus, OH",USA,North America,High income,1.000,"USD 29,405","USD 16,459","USD 26,501","USD 14,625","USD 23,801","USD 11,719","USD 46,707","USD 24,515",Numbeo City
+United States,"Dallas, TX",USA,North America,High income,1.000,"USD 36,660","USD 18,678","USD 33,344","USD 16,740","USD 27,142","USD 14,081","USD 59,306","USD 28,232",Numbeo City
+United States,"Houston, TX",USA,North America,High income,1.000,"USD 32,057","USD 16,976","USD 29,078","USD 15,186","USD 25,352","USD 12,546","USD 52,038","USD 25,935",Numbeo City
+United States,"Indianapolis, IN",USA,North America,High income,1.000,"USD 29,057","USD 15,624","USD 26,231","USD 13,890","USD 25,645","USD 12,202","USD 46,556","USD 23,408",Numbeo City
+United States,"Minneapolis, MN",USA,North America,High income,1.000,"USD 32,487","USD 18,381","USD 29,309","USD 16,359","USD 27,861","USD 13,285","USD 51,265","USD 27,193",Numbeo City
+United States,"Orlando, FL",USA,North America,High income,1.000,"USD 33,075","USD 19,510","USD 29,874","USD 17,430","USD 27,908","USD 14,342","USD 52,924","USD 29,662",Numbeo City
+United States,"Philadelphia, PA",USA,North America,High income,1.000,"USD 38,941","USD 19,250","USD 35,316","USD 17,137","USD 29,992","USD 14,045","USD 62,455","USD 28,409",Numbeo City
+United States,"Phoenix, AZ",USA,North America,High income,1.000,"USD 33,535","USD 18,121","USD 30,315","USD 16,134","USD 27,345","USD 13,838","USD 53,649","USD 27,097",Numbeo City
+United States,"Pittsburgh, PA",USA,North America,High income,1.000,"USD 29,077","USD 15,992","USD 26,212","USD 14,203","USD 25,195","USD 11,960","USD 45,831","USD 23,495",Numbeo City
+United States,"Raleigh, NC",USA,North America,High income,1.000,"USD 31,873","USD 16,743","USD 28,836","USD 14,909","USD 25,683","USD 12,555","USD 51,587","USD 25,356",Numbeo City
+United States,"Sacramento, CA",USA,North America,High income,1.000,"USD 36,305","USD 20,300","USD 32,889","USD 18,158","USD 31,110","USD 15,440","USD 58,016","USD 30,561",Numbeo City
+United States,"Tampa, FL",USA,North America,High income,1.000,"USD 37,772","USD 19,183","USD 34,383","USD 17,211","USD 31,832","USD 14,362","USD 62,017","USD 29,633",Numbeo City
+United States,"Brooklyn, NY",USA,North America,High income,1.000,"USD 60,679","USD 26,798","USD 55,629","USD 24,155","USD 47,414","USD 21,355","USD 100,583","USD 41,218",Numbeo City
+Argentina,Buenos Aires,ARG,Latin America & Caribbean,Upper middle income,0.459,"USD 18,194","USD 9,786","USD 16,774","USD 8,824","USD 13,127","USD 6,369","USD 28,871","USD 14,405",Numbeo City
+United States,"Denver, CO",USA,North America,High income,1.000,"USD 34,820","USD 19,847","USD 31,534","USD 17,766","USD 30,878","USD 15,197","USD 55,789","USD 30,101",Numbeo City
+United States,"Salt Lake City, UT",USA,North America,High income,1.000,"USD 30,101","USD 16,212","USD 27,245","USD 14,472","USD 24,050","USD 12,790","USD 48,407","USD 24,486",Numbeo City
+United States,"Albuquerque, NM",USA,North America,High income,1.000,"USD 25,180","USD 14,829","USD 22,610","USD 13,157","USD 19,521","USD 10,307","USD 40,376","USD 22,552",Numbeo City
+Germany,Frankfurt,DEU,Europe & Central Asia,High income,0.759,"USD 33,232","USD 17,764","USD 29,322","USD 15,312","USD 25,999","USD 13,547","USD 53,362","USD 26,719",Numbeo City
+Spain,Barcelona,ESP,Europe & Central Asia,High income,0.608,"USD 24,325","USD 12,645","USD 23,007","USD 11,553","USD 22,434","USD 10,371","USD 39,852","USD 19,508",Numbeo City
+Canada,Edmonton,CAN,North America,High income,0.840,"USD 24,853","USD 14,612","USD 22,000","USD 12,622","USD 20,094","USD 10,725","USD 38,914","USD 21,554",Numbeo City
+United States,"Cleveland, OH",USA,North America,High income,1.000,"USD 32,488","USD 15,633","USD 29,445","USD 13,896","USD 25,286","USD 11,395","USD 52,275","USD 23,100",Numbeo City
+Canada,Calgary,CAN,North America,High income,0.840,"USD 26,527","USD 15,743","USD 23,535","USD 13,647","USD 23,279","USD 12,015","USD 41,482","USD 23,237",Numbeo City
+Canada,Halifax,CAN,North America,High income,0.840,"USD 29,154","USD 16,870","USD 25,975","USD 14,659","USD 25,177","USD 13,008","USD 46,134","USD 25,166",Numbeo City
+Canada,Ottawa,CAN,North America,High income,0.840,"USD 28,381","USD 16,539","USD 25,310","USD 14,407","USD 24,898","USD 12,983","USD 44,634","USD 24,538",Numbeo City
+Canada,Toronto,CAN,North America,High income,0.840,"USD 30,854","USD 17,634","USD 27,726","USD 15,492","USD 27,105","USD 14,286","USD 49,046","USD 26,503",Numbeo City
+Canada,Montreal,CAN,North America,High income,0.840,"USD 26,627","USD 15,121","USD 23,662","USD 13,076","USD 22,050","USD 10,970","USD 41,914","USD 22,312",Numbeo City
+United States,"Charlotte, NC",USA,North America,High income,1.000,"USD 36,528","USD 17,983","USD 33,191","USD 16,064","USD 27,260","USD 13,240","USD 59,297","USD 27,108",Numbeo City
+United States,"Detroit, MI",USA,North America,High income,1.000,"USD 31,060","USD 15,918","USD 28,078","USD 14,140","USD 23,517","USD 10,873","USD 49,180","USD 23,215",Numbeo City
+United States,"Madison, WI",USA,North America,High income,1.000,"USD 32,370","USD 17,970","USD 29,286","USD 16,047","USD 26,128","USD 13,689","USD 52,049","USD 27,245",Numbeo City
+United States,"San Antonio, TX",USA,North America,High income,1.000,"USD 29,273","USD 15,536","USD 26,452","USD 13,824","USD 23,231","USD 10,796","USD 47,362","USD 23,563",Numbeo City
+Australia,Adelaide,AUS,East Asia & Pacific,High income,0.896,"USD 22,041","USD 12,495","USD 19,639","USD 10,946","USD 21,238","USD 10,643","USD 34,932","USD 18,631",Numbeo City
+Australia,Brisbane,AUS,East Asia & Pacific,High income,0.896,"USD 25,337","USD 12,845","USD 22,736","USD 11,282","USD 21,422","USD 9,723","USD 41,536","USD 19,738",Numbeo City
+Australia,Canberra,AUS,East Asia & Pacific,High income,0.896,"USD 25,938","USD 12,925","USD 23,283","USD 11,343","USD 21,901","USD 11,111","USD 41,791","USD 19,290",Numbeo City
+Australia,Melbourne,AUS,East Asia & Pacific,High income,0.896,"USD 28,422","USD 14,835","USD 25,587","USD 13,113","USD 22,310","USD 10,861","USD 45,652","USD 22,282",Numbeo City
+Australia,Perth,AUS,East Asia & Pacific,High income,0.896,"USD 25,217","USD 13,096","USD 22,634","USD 11,526","USD 21,833","USD 10,707","USD 40,606","USD 19,699",Numbeo City
+Finland,Helsinki,FIN,Europe & Central Asia,High income,0.816,"USD 26,527","USD 14,457","USD 24,235","USD 12,832","USD 21,203","USD 10,319","USD 42,135","USD 21,469",Numbeo City
+Italy,Rome,ITA,Europe & Central Asia,High income,0.649,"USD 32,086","USD 16,283","USD 28,893","USD 14,159","USD 24,954","USD 11,406","USD 52,199","USD 24,736",Numbeo City
+Italy,Turin,ITA,Europe & Central Asia,High income,0.649,"USD 23,750","USD 13,232","USD 20,866","USD 11,220","USD 17,736","USD 9,091","USD 37,130","USD 19,197",Numbeo City
+France,Paris,FRA,Europe & Central Asia,High income,0.737,"USD 35,729","USD 17,473","USD 33,887","USD 16,345","USD 25,962","USD 12,331","USD 58,096","USD 26,428",Numbeo City
+Greece,Thessaloniki,GRC,Europe & Central Asia,High income,0.558,"USD 15,612","USD 9,427","USD 14,301","USD 8,432","USD 11,780","USD 6,404","USD 24,192","USD 13,726",Numbeo City
+Germany,Berlin,DEU,Europe & Central Asia,High income,0.759,"USD 34,861","USD 18,638","USD 30,862","USD 16,146","USD 28,004","USD 13,015","USD 56,407","USD 28,387",Numbeo City
+Germany,Hamburg,DEU,Europe & Central Asia,High income,0.759,"USD 32,278","USD 17,535","USD 28,441","USD 15,106","USD 25,566","USD 12,410","USD 51,774","USD 26,403",Numbeo City
+Germany,Stuttgart,DEU,Europe & Central Asia,High income,0.759,"USD 28,884","USD 16,642","USD 25,289","USD 14,283","USD 24,721","USD 12,280","USD 45,715","USD 24,838",Numbeo City
+Slovenia,Ljubljana,SVN,Europe & Central Asia,High income,0.596,"USD 29,551","USD 15,627","USD 26,427","USD 13,698","USD 22,444","USD 11,476","USD 47,494","USD 23,449",Numbeo City
+Greece,Athens,GRC,Europe & Central Asia,High income,0.558,"USD 17,864","USD 10,669","USD 16,526","USD 9,650","USD 13,213","USD 7,292","USD 27,958","USD 15,743",Numbeo City
+Spain,Madrid,ESP,Europe & Central Asia,High income,0.608,"USD 25,578","USD 12,145","USD 24,305","USD 11,066","USD 20,954","USD 9,889","USD 42,016","USD 18,557",Numbeo City
+Estonia,Tallinn,EST,Europe & Central Asia,High income,0.624,"USD 19,507","USD 10,785","USD 17,607","USD 9,451","USD 14,475","USD 7,289","USD 30,786","USD 15,849",Numbeo City
+Spain,Valencia,ESP,Europe & Central Asia,High income,0.608,"USD 21,022","USD 10,567","USD 19,845","USD 9,604","USD 18,744","USD 8,521","USD 34,422","USD 16,214",Numbeo City
+Uruguay,Montevideo,URY,Latin America & Caribbean,High income,0.656,"USD 16,714","USD 10,351","USD 15,188","USD 9,241","USD 12,429","USD 7,007","USD 25,286","USD 14,735",Numbeo City
+Sweden,Stockholm,SWE,Europe & Central Asia,High income,0.803,"USD 27,142","USD 14,622","USD 25,359","USD 13,366","USD 23,823","USD 10,636","USD 42,883","USD 21,483",Numbeo City
+New Zealand,Auckland,NZL,East Asia & Pacific,High income,0.886,"USD 24,337","USD 13,255","USD 22,079","USD 11,844","USD 19,284","USD 10,477","USD 38,608","USD 19,701",Numbeo City
+New Zealand,Wellington,NZL,East Asia & Pacific,High income,0.886,"USD 23,324","USD 13,398","USD 21,092","USD 11,954","USD 18,441","USD 10,714","USD 36,820","USD 19,954",Numbeo City
+Canada,Winnipeg,CAN,North America,High income,0.840,"USD 22,749","USD 14,247","USD 20,030","USD 12,315","USD 18,199","USD 10,857","USD 35,207","USD 20,982",Numbeo City
+Mexico,Monterrey,MEX,Latin America & Caribbean,Upper middle income,0.542,"USD 17,215","USD 10,046","USD 15,778","USD 9,181","USD 13,788","USD 6,524","USD 27,213","USD 14,967",Numbeo City
+Croatia,Zagreb,HRV,Europe & Central Asia,High income,0.485,"USD 24,512","USD 13,791","USD 22,000","USD 12,127","USD 19,706","USD 10,022","USD 38,407","USD 20,163",Numbeo City
+Latvia,Riga,LVA,Europe & Central Asia,High income,0.537,"USD 19,181","USD 10,957","USD 17,165","USD 9,546","USD 13,893","USD 7,055","USD 29,736","USD 15,784",Numbeo City
+Portugal,Lisbon,PRT,Europe & Central Asia,High income,0.559,"USD 29,350","USD 13,542","USD 27,208","USD 12,245","USD 24,112","USD 11,115","USD 48,562","USD 20,884",Numbeo City
+Lithuania,Vilnius,LTU,Europe & Central Asia,High income,0.531,"USD 22,781","USD 12,324","USD 20,233","USD 10,561","USD 18,484","USD 9,338","USD 36,074","USD 18,149",Numbeo City
+Ukraine,Dnipro,UKR,Europe & Central Asia,Upper middle income,0.291,"USD 10,015","USD 5,305","USD 8,056","USD 4,041","USD 7,295","USD 3,493","USD 15,808","USD 7,711",Numbeo City
+Romania,Bucharest,ROU,Europe & Central Asia,High income,0.409,"USD 17,255","USD 9,162","USD 15,941","USD 8,354","USD 13,386","USD 6,269","USD 27,407","USD 13,474",Numbeo City
+Romania,Cluj-Napoca,ROU,Europe & Central Asia,High income,0.409,"USD 18,370","USD 10,402","USD 16,983","USD 9,519","USD 14,612","USD 7,583","USD 29,019","USD 15,405",Numbeo City
+Serbia,Belgrade,SRB,Europe & Central Asia,Upper middle income,0.417,"USD 19,315","USD 9,641","USD 18,120","USD 8,881","USD 15,042","USD 6,620","USD 31,582","USD 14,684",Numbeo City
+United Arab Emirates,Dubai,ARE,Middle East & North Africa,High income,0.635,"USD 31,987","USD 14,262","USD 28,324","USD 12,299","USD 26,464","USD 10,146","USD 53,976","USD 22,792",Numbeo City
+Portugal,Porto,PRT,Europe & Central Asia,High income,0.559,"USD 24,087","USD 12,382","USD 22,178","USD 11,159","USD 20,430","USD 9,454","USD 39,280","USD 18,958",Numbeo City
+Romania,Brasov,ROU,Europe & Central Asia,High income,0.409,"USD 18,177","USD 9,975","USD 16,823","USD 9,131","USD 14,315","USD 6,735","USD 29,044","USD 14,928",Numbeo City
+Bulgaria,Sofia,BGR,Europe & Central Asia,High income,0.419,"USD 17,279","USD 9,460","USD 15,935","USD 8,659","USD 13,502","USD 6,846","USD 27,340","USD 13,929",Numbeo City
+Slovakia,Bratislava,SVK,Europe & Central Asia,High income,0.543,"USD 23,387","USD 13,011","USD 21,129","USD 11,527","USD 19,706","USD 9,730","USD 36,959","USD 19,210",Numbeo City
+Poland,Gdansk,POL,Europe & Central Asia,High income,0.490,"USD 18,223","USD 9,477","USD 15,595","USD 7,810","USD 15,836","USD 7,716","USD 29,333","USD 14,212",Numbeo City
+Russia,Moscow,RUS,Europe & Central Asia,High income,0.314,"USD 24,191","USD 9,136","USD 21,653","USD 7,915","USD 18,322","USD 6,745","USD 40,528","USD 13,982",Numbeo City
+Poland,Wroclaw,POL,Europe & Central Asia,High income,0.490,"USD 17,858","USD 9,844","USD 15,245","USD 8,141","USD 15,267","USD 7,711","USD 28,669","USD 14,864",Numbeo City
+Hungary,Budapest,HUN,Europe & Central Asia,High income,0.480,"USD 21,240","USD 11,780","USD 19,094","USD 10,397","USD 16,235","USD 8,144","USD 33,936","USD 17,659",Numbeo City
+Bulgaria,Varna,BGR,Europe & Central Asia,High income,0.419,"USD 14,614","USD 8,634","USD 13,429","USD 7,880","USD 10,959","USD 5,882","USD 22,494","USD 12,401",Numbeo City
+South Africa,Cape Town,ZAF,Sub-Saharan Africa,Upper middle income,0.405,"USD 17,419","USD 9,189","USD 23,546","USD 12,515","USD 15,258","USD 6,656","USD 27,927","USD 13,770",Numbeo City
+South Africa,Johannesburg,ZAF,Sub-Saharan Africa,Upper middle income,0.405,"USD 14,623","USD 8,151","USD 19,826","USD 11,131","USD 9,725","USD 5,500","USD 22,582","USD 11,690",Numbeo City
+Czech Republic,Prague,CZE,Europe & Central Asia,High income,0.552,"USD 25,897","USD 12,868","USD 22,909","USD 11,114","USD 19,714","USD 10,041","USD 42,405","USD 19,683",Numbeo City
+Montenegro,Podgorica,MNE,Europe & Central Asia,Upper middle income,0.389,"USD 14,076","USD 7,978","USD 14,217","USD 7,981","USD 10,921","USD 5,552","USD 22,062","USD 11,673",Numbeo City
+Poland,Warsaw,POL,Europe & Central Asia,High income,0.490,"USD 22,899","USD 11,438","USD 19,859","USD 9,570","USD 19,023","USD 9,020","USD 37,543","USD 17,563",Numbeo City
+Kazakhstan,Almaty,KAZ,Europe & Central Asia,Upper middle income,0.346,"USD 14,703","USD 7,559","USD 15,117","USD 8,079","USD 11,824","USD 5,259","USD 23,679","USD 11,307",Numbeo City
+Turkey,Istanbul,TUR,Europe & Central Asia,Upper middle income,0.348,"USD 21,670","USD 10,276","USD 20,680","USD 9,599","USD 18,527","USD 7,570","USD 35,203","USD 15,432",Numbeo City
+Mexico,Guadalajara,MEX,Latin America & Caribbean,Upper middle income,0.542,"USD 16,156","USD 8,143","USD 14,814","USD 7,434","USD 12,059","USD 5,393","USD 25,849","USD 11,995",Numbeo City
+Mexico,Mexico City,MEX,Latin America & Caribbean,Upper middle income,0.542,"USD 21,914","USD 9,455","USD 20,133","USD 8,642","USD 14,941","USD 6,613","USD 36,119","USD 14,259",Numbeo City
+Georgia,Tbilisi,GEO,Europe & Central Asia,Upper middle income,0.327,"USD 14,827","USD 7,350","USD 14,838","USD 7,287","USD 11,203","USD 4,923","USD 23,865","USD 10,890",Numbeo City
+Chile,Santiago,CHL,Latin America & Caribbean,High income,0.462,"USD 12,676","USD 7,471","USD 11,365","USD 6,501","USD 9,246","USD 4,903","USD 19,646","USD 10,857",Numbeo City
+Poland,Krakow (Cracow),POL,Europe & Central Asia,High income,0.490,"USD 18,248","USD 10,251","USD 15,603","USD 8,514","USD 15,902","USD 8,028","USD 29,185","USD 15,463",Numbeo City
+Poland,Katowice,POL,Europe & Central Asia,High income,0.490,"USD 14,543","USD 8,549","USD 12,214","USD 6,974","USD 12,243","USD 6,102","USD 22,804","USD 12,622",Numbeo City
+Poland,Poznan,POL,Europe & Central Asia,High income,0.490,"USD 16,377","USD 8,935","USD 13,938","USD 7,352","USD 14,357","USD 7,014","USD 26,198","USD 13,394",Numbeo City
+Poland,Lodz,POL,Europe & Central Asia,High income,0.490,"USD 15,111","USD 8,821","USD 12,729","USD 7,217","USD 11,596","USD 6,196","USD 23,530","USD 12,899",Numbeo City
+Azerbaijan,Baku,AZE,Europe & Central Asia,Upper middle income,0.290,"USD 11,441","USD 5,472","USD 10,466","USD 4,877","USD 8,454","USD 3,781","USD 18,248","USD 7,920",Numbeo City
+Ukraine,Kiev (Kyiv),UKR,Europe & Central Asia,Upper middle income,0.291,"USD 12,688","USD 5,995","USD 10,383","USD 4,596","USD 10,072","USD 4,316","USD 20,394","USD 8,761",Numbeo City
+Romania,Iasi,ROU,Europe & Central Asia,High income,0.409,"USD 14,660","USD 8,623","USD 13,473","USD 7,842","USD 11,415","USD 6,177","USD 22,610","USD 12,417",Numbeo City
+Belarus,Minsk,BLR,Europe & Central Asia,Upper middle income,0.252,"USD 10,426","USD 5,763","USD 8,976","USD 4,794","USD 8,841","USD 3,979","USD 16,412","USD 8,429",Numbeo City
+Russia,Saint Petersburg,RUS,Europe & Central Asia,High income,0.314,"USD 15,241","USD 7,347","USD 13,450","USD 6,308","USD 12,476","USD 5,226","USD 24,559","USD 10,898",Numbeo City
+Serbia,Novi Sad,SRB,Europe & Central Asia,Upper middle income,0.417,"USD 15,365","USD 8,705","USD 14,285","USD 7,970","USD 11,066","USD 6,014","USD 24,092","USD 12,731",Numbeo City
+Armenia,Yerevan,ARM,Europe & Central Asia,Upper middle income,0.375,"USD 15,519","USD 7,830","USD 15,802","USD 7,936","USD 12,766","USD 5,724","USD 24,888","USD 11,585",Numbeo City
+Kazakhstan,Astana (Nur-Sultan),KAZ,Europe & Central Asia,Upper middle income,0.346,"USD 11,615","USD 6,179","USD 12,075","USD 6,672","USD 8,763","USD 4,112","USD 18,546","USD 9,171",Numbeo City
+Singapore,Singapore,SGP,East Asia & Pacific,High income,0.602,"USD 41,339","USD 18,404","USD 36,290","USD 15,511","USD 32,606","USD 14,828","USD 69,067","USD 28,795",Numbeo City
+Czech Republic,Brno,CZE,Europe & Central Asia,High income,0.552,"USD 19,403","USD 10,947","USD 16,952","USD 9,376","USD 16,920","USD 8,557","USD 30,959","USD 16,429",Numbeo City
+Czech Republic,Plzen,CZE,Europe & Central Asia,High income,0.552,"USD 15,183","USD 9,879","USD 13,038","USD 8,377","USD 13,009","USD 7,551","USD 23,279","USD 14,438",Numbeo City
+Turkey,Ankara,TUR,Europe & Central Asia,Upper middle income,0.348,"USD 14,559","USD 7,799","USD 13,676","USD 7,167","USD 12,787","USD 6,179","USD 23,247","USD 11,575",Numbeo City
+Bulgaria,Plovdiv,BGR,Europe & Central Asia,High income,0.419,"USD 13,174","USD 7,861","USD 12,095","USD 7,170","USD 9,991","USD 5,219","USD 20,213","USD 11,270",Numbeo City
+South Africa,Pretoria,ZAF,Sub-Saharan Africa,Upper middle income,0.405,"USD 14,379","USD 8,758","USD 19,484","USD 11,923","USD 10,468","USD 6,447","USD 21,224","USD 12,161",Numbeo City
+Bosnia And Herzegovina,Sarajevo,BIH,Europe & Central Asia,Upper middle income,0.374,"USD 18,535","USD 9,975","USD 17,685","USD 9,288","USD 12,479","USD 6,535","USD 28,878","USD 14,278",Numbeo City
+South Korea,Seoul,KOR,East Asia & Pacific,High income,0.594,"USD 24,779","USD 13,117","USD 19,872","USD 9,745","USD 15,690","USD 8,234","USD 38,459","USD 18,532",Numbeo City
+Moldova,Chisinau,MDA,Europe & Central Asia,Upper middle income,0.407,"USD 13,388","USD 6,669","USD 11,923","USD 5,862","USD 10,154","USD 4,656","USD 21,685","USD 10,004",Numbeo City
+Brazil,Brasilia,BRA,Latin America & Caribbean,Upper middle income,0.462,"USD 11,341","USD 5,863","USD 10,509","USD 5,330","USD 7,407","USD 3,583","USD 17,901","USD 8,495",Numbeo City
+Brazil,Sao Paulo,BRA,Latin America & Caribbean,Upper middle income,0.462,"USD 14,384","USD 7,449","USD 13,407","USD 6,826","USD 9,907","USD 4,827","USD 22,882","USD 10,957",Numbeo City
+Hong Kong (China),Hong Kong,HKG,East Asia & Pacific,High income,0.719,"USD 37,015","USD 16,492","USD 31,921","USD 13,459","USD 27,163","USD 12,544","USD 61,858","USD 25,793",Numbeo City
+Brazil,Florianopolis,BRA,Latin America & Caribbean,Upper middle income,0.462,"USD 11,967","USD 6,779","USD 11,140","USD 6,236","USD 8,996","USD 4,548","USD 18,706","USD 9,946",Numbeo City
+Brazil,Rio de Janeiro,BRA,Latin America & Caribbean,Upper middle income,0.462,"USD 11,544","USD 6,106","USD 10,708","USD 5,566","USD 9,488","USD 4,107","USD 18,035","USD 8,771",Numbeo City
+North Macedonia,Skopje,MKD,Europe & Central Asia,Upper middle income,0.344,"USD 8,938","USD 5,286","USD 8,621","USD 5,004","USD 7,002","USD 3,704","USD 13,687","USD 7,546",Numbeo City
+South Africa,Durban,ZAF,Sub-Saharan Africa,Upper middle income,0.405,"USD 10,831","USD 6,503","USD 14,758","USD 8,918","USD 7,570","USD 4,436","USD 16,865","USD 9,537",Numbeo City
+Jordan,Amman,JOR,Middle East & North Africa,Lower middle income,0.427,"USD 9,538","USD 5,558","USD 11,103","USD 6,604","USD 7,419","USD 3,640","USD 14,649","USD 7,954",Numbeo City
+Colombia,Bogota,COL,Latin America & Caribbean,Upper middle income,0.354,"USD 10,624","USD 6,232","USD 10,196","USD 5,911","USD 8,156","USD 4,212","USD 16,504","USD 9,084",Numbeo City
+Brazil,Porto Alegre,BRA,Latin America & Caribbean,Upper middle income,0.462,"USD 9,572","USD 5,646","USD 8,817","USD 5,132","USD 7,018","USD 3,690","USD 14,546","USD 7,999",Numbeo City
+Philippines,Manila,PHL,East Asia & Pacific,Lower middle income,0.338,"USD 17,288","USD 6,871","USD 15,806","USD 6,242","USD 8,709","USD 3,939","USD 28,033","USD 9,801",Numbeo City
+Kosovo (Disputed Territory),Pristina,XKX,Europe & Central Asia,Upper middle income,0.393,"USD 7,600","USD 4,440","USD 6,446","USD 3,701","USD 5,671","USD 2,956","USD 11,803","USD 6,442",Numbeo City
+Uzbekistan,Tashkent,UZB,Europe & Central Asia,Lower middle income,0.266,"USD 10,832","USD 5,131","USD 11,515","USD 5,844","USD 8,516","USD 3,634","USD 17,493","USD 7,570",Numbeo City
+Brazil,Belo Horizonte,BRA,Latin America & Caribbean,Upper middle income,0.462,"USD 10,013","USD 5,610","USD 9,254","USD 5,107","USD 8,065","USD 3,742","USD 15,333","USD 7,942",Numbeo City
+Brazil,Curitiba,BRA,Latin America & Caribbean,Upper middle income,0.462,"USD 9,481","USD 5,528","USD 8,754","USD 5,040","USD 7,265","USD 3,636","USD 14,456","USD 7,867",Numbeo City
+Kenya,Nairobi,KEN,Sub-Saharan Africa,Lower middle income,0.321,"USD 12,071","USD 5,466","USD 12,722","USD 6,141","USD 7,444","USD 3,274","USD 19,284","USD 7,843",Numbeo City
+India,Delhi,IND,South Asia,Lower middle income,0.241,"USD 7,813","USD 3,768","USD 7,321","USD 3,527","USD 4,483","USD 2,154","USD 12,599","USD 5,583",Numbeo City
+India,Gurgaon,IND,South Asia,Lower middle income,0.241,"USD 8,666","USD 4,179","USD 8,122","USD 3,912","USD 5,093","USD 2,283","USD 14,038","USD 6,232",Numbeo City
+India,Mumbai,IND,South Asia,Lower middle income,0.241,"USD 15,792","USD 5,184","USD 14,814","USD 4,856","USD 8,833","USD 3,274","USD 26,991","USD 8,139",Numbeo City
+Morocco,Casablanca,MAR,Middle East & North Africa,Lower middle income,0.399,"USD 10,148","USD 4,834","USD 10,269","USD 4,951","USD 7,854","USD 3,410","USD 16,296","USD 7,087",Numbeo City
+Taiwan,Taipei,,,,,"USD 17,964","USD 9,988","USD 19,886","USD 11,490","USD 12,063","USD 6,355","USD 27,778","USD 14,215",Numbeo City
+Oman,Muscat,OMN,Middle East & North Africa,High income,0.486,"USD 13,619","USD 7,304","USD 13,318","USD 7,287","USD 10,052","USD 4,989","USD 21,152","USD 10,446",Numbeo City
+Malaysia,Kuala Lumpur,MYS,East Asia & Pacific,Upper middle income,0.306,"USD 13,462","USD 6,987","USD 12,053","USD 6,111","USD 10,060","USD 4,546","USD 21,247","USD 10,094",Numbeo City
+Egypt,Cairo,EGY,Middle East & North Africa,Lower middle income,0.175,"USD 5,436","USD 2,883","USD 5,673","USD 3,110","USD 3,537","USD 1,913","USD 8,538","USD 4,156",Numbeo City
+Sri Lanka,Colombo,LKA,South Asia,Lower middle income,0.289,"USD 12,312","USD 5,609","USD 11,542","USD 5,249","USD 7,864","USD 3,594","USD 19,431","USD 7,821",Numbeo City
+China,Beijing,CHN,East Asia & Pacific,Upper middle income,0.491,"USD 19,490","USD 8,143","USD 17,117","USD 6,731","USD 14,791","USD 5,356","USD 32,294","USD 12,374",Numbeo City
+China,Shanghai,CHN,East Asia & Pacific,Upper middle income,0.491,"USD 18,746","USD 7,864","USD 16,435","USD 6,484","USD 12,236","USD 5,215","USD 31,057","USD 11,951",Numbeo City
+Peru,Lima,PER,Latin America & Caribbean,Upper middle income,0.475,"USD 13,796","USD 7,011","USD 13,070","USD 6,635","USD 11,429","USD 4,765","USD 21,854","USD 10,162",Numbeo City
+India,Pune,IND,South Asia,Lower middle income,0.241,"USD 7,202","USD 3,659","USD 6,747","USD 3,424","USD 4,504","USD 2,272","USD 11,469","USD 5,351",Numbeo City
+Tunisia,Tunis,TUN,Middle East & North Africa,Lower middle income,0.288,"USD 6,806","USD 4,082","USD 7,075","USD 4,217","USD 5,248","USD 2,675","USD 10,307","USD 5,743",Numbeo City
+China,Shenzhen,CHN,East Asia & Pacific,Upper middle income,0.491,"USD 16,722","USD 7,253","USD 14,507","USD 5,892","USD 10,368","USD 4,650","USD 27,443","USD 10,864",Numbeo City
+India,Ahmedabad,IND,South Asia,Lower middle income,0.241,"USD 5,397","USD 3,158","USD 5,051","USD 2,953","USD 3,243","USD 1,872","USD 8,289","USD 4,504",Numbeo City
+China,Guangzhou,CHN,East Asia & Pacific,Upper middle income,0.491,"USD 13,686","USD 6,281","USD 11,611","USD 4,948","USD 9,296","USD 3,795","USD 21,898","USD 9,044",Numbeo City
+Thailand,Bangkok,THA,East Asia & Pacific,Upper middle income,0.297,"USD 17,457","USD 6,902","USD 14,957","USD 5,572","USD 9,907","USD 4,256","USD 28,318","USD 9,875",Numbeo City
+India,Bangalore,IND,South Asia,Lower middle income,0.241,"USD 8,340","USD 3,991","USD 7,816","USD 3,736","USD 5,140","USD 2,318","USD 13,563","USD 5,993",Numbeo City
+China,Chengdu,CHN,East Asia & Pacific,Upper middle income,0.491,"USD 10,246","USD 5,507","USD 8,481","USD 4,313","USD 7,032","USD 3,303","USD 16,009","USD 7,910",Numbeo City
+India,Hyderabad,IND,South Asia,Lower middle income,0.241,"USD 6,715","USD 3,409","USD 6,290","USD 3,189","USD 4,047","USD 1,958","USD 10,615","USD 4,929",Numbeo City
+India,Kolkata,IND,South Asia,Lower middle income,0.241,"USD 5,201","USD 2,698","USD 4,869","USD 2,523","USD 2,970","USD 1,461","USD 8,175","USD 3,867",Numbeo City
+Vietnam,Hanoi,VNM,East Asia & Pacific,Lower middle income,0.288,"USD 9,843","USD 5,240","USD 8,923","USD 4,731","USD 7,054","USD 3,408","USD 15,605","USD 7,673",Numbeo City
+Vietnam,Ho Chi Minh City,VNM,East Asia & Pacific,Lower middle income,0.288,"USD 11,672","USD 5,752","USD 10,593","USD 5,197","USD 8,552","USD 3,498","USD 18,742","USD 8,471",Numbeo City
+Nepal,Kathmandu,NPL,South Asia,Lower middle income,0.252,"USD 5,048","USD 2,639","USD 5,065","USD 2,646","USD 3,038","USD 1,509","USD 7,787","USD 3,676",Numbeo City
+India,Chennai,IND,South Asia,Lower middle income,0.241,"USD 5,623","USD 3,299","USD 5,264","USD 3,085","USD 3,546","USD 1,854","USD 8,649","USD 4,722",Numbeo City
