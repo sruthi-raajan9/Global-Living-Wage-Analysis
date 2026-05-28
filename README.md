@@ -1,11 +1,8 @@
 # 🌍 Global Living Wage Feasibility Analysis
 ⭐ **A Data-Driven Study on Survival Costs, Urban Hurdles, and Economic Sustainability**
 
----
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google-cloud&logoColor=white)
 
+---
 
 ## 📌 Project Overview
 The **Global Living Wage Analysis** investigates the economic feasibility of survival across the globe. By merging the **2026 Global Living Wage Dataset** (covering **217 countries** and **188 cities**) with **World Bank GDP per capita (PPP)** data, I developed a high-precision analysis of **199 nations** with verified economic records.
@@ -14,25 +11,27 @@ The core of this project is the **Affordability Index**, which measures the cost
 
 ## 📂 Project Structure 
 
+To ensure reproducibility, this repository follows a clean data science pipeline:
+
+```text
 Global-Living-Wage-Analysis/
+├── README.md               # Project documentation & insights
+├── Global_living_wage_analysis.ipynb # Python cleaning & merging logic
 │
-├── README.md               
-├── Global_living_wage_analysis.ipynb      	
+├── raw/                    # Original, untouched source data
+│   ├── gdp_per_capita(ppp).csv          
+│   └── Living_Wage_Dataset.csv      
 │
-├── raw/                    	
-│   ├── gdp_per_capita(ppp).csv         	
-│   └── Living_Wage_Dataset.csv     	
-│
-├── processed data/                  	
+├── processed data/         # Cleaned outputs ready for visualization
 │   ├── country_cl.csv
 │   ├── cities_cl.csv
-│   └── country_gdppc_cl
+│   ├── country_gdppc_cl.csv
 │   ├── aggregates_cl.csv
 │   └── city_country_median_cl.csv
 │
-└── reports/                 	
+└── reports/                # Final documentation & export
     └── Living_Wage_Dashboard.pdf
-
+```
 
 ## 📡 Data Sources
 * **Valuing Impact** – [2026 Global Living Wage Dataset](https://valuingimpact.com/all/2026_living_wage_dataset/)
@@ -46,8 +45,14 @@ Global-Living-Wage-Analysis/
 ---
 
 ## 🧰 Tech Stack & Methodology
-* **Data Processing:**Python (Pandas) for cleaning and for all calculations.
-* **Visualization:**Looker Studio for interactive dashboards.
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+</div>
+
+* **Data Processing:** Python (Pandas) for cleaning and for all calculations.
+* **Visualization:** Looker Studio for interactive dashboards.
 * **Economic Modeling:** Created Growth Simulator using parameter-driven logic.
 
 ---
@@ -131,21 +136,28 @@ My analysis led to three primary conclusions regarding global economic stability
 ## 🚀 How to Use
 
 ### 🎞️ Interactive Dashboard
-**View the Live Looker Studio Report](https://datastudio.google.com/u/0/reporting/8b6fd8b6-3569-401e-8b30-5789f8e33352/page/p_ayxhdq6z3d)**
+**View the Live Looker Studio Report**
+
+(https://datastudio.google.com/u/0/reporting/8b6fd8b6-3569-401e-8b30-5789f8e33352/page/p_ayxhdq6z3d)
 
 *Interact with the GDP Growth Slider and explore the Affordability Index across 199 nations.*
 
 ### 📓 Data Analysis & Python Logic
-*Run the Analysis: Open in Google Colab https://github.com/sruthi-raajan9/Global-Living-Wage-Analysis/blob/main/Global_living__wage_analysis.ipynb**
+*Run the Analysis: Open in Google Colab*
+https://github.com/sruthi-raajan9/Global-Living-Wage-Analysis/blob/main/Global_living__wage_analysis.ipynb
 
 *Review the Python (Pandas) code used for data merging, cleaning, and metric calculation.*
 
 ---
 
-## 👤 Contact
-**Sruthi Raajan** 📩 [LinkedIn Profile](https://www.linkedin.com/in/sruthi-raajan)  
-📂 [GitHub Portfolio](https://github.com/yourusername)
+## 👤 Contact & Connect
+**Sruthi Raajan**
+ [LinkedIn Profile]  
+ [GitHub Portfolio]
 
-
+## 👤 
+* **LinkedIn:** (https://www.linkedin.com/in/sruthi-raajan)
+* **GitHub Portfolio:** (https://github.com/sruthi-raajan9)
+* **Email:** sruthiraajan9@gmail.com
 
 
