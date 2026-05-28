@@ -2,11 +2,37 @@
 ⭐ **A Data-Driven Study on Survival Costs, Urban Hurdles, and Economic Sustainability**
 
 ---
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=google-cloud&logoColor=white)
+
 
 ## 📌 Project Overview
 The **Global Living Wage Analysis** investigates the economic feasibility of survival across the globe. By merging the **2026 Global Living Wage Dataset** (covering **217 countries** and **188 cities**) with **World Bank GDP per capita (PPP)** data, I developed a high-precision analysis of **199 nations** with verified economic records.
 
 The core of this project is the **Affordability Index**, which measures the cost of a living wage as a percentage of a nation's GDP per capita to determine where survival is mathematically sustainable.
+
+## 📂 Project Structure 
+
+Global-Living-Wage-Analysis/
+│
+├── README.md               
+├── Global_living_wage_analysis.ipynb      	
+│
+├── raw/                    	
+│   ├── gdp_per_capita(ppp).csv         	
+│   └── Living_Wage_Dataset.csv     	
+│
+├── processed data/                  	
+│   ├── country_cl.csv
+│   ├── cities_cl.csv
+│   └── country_gdppc_cl
+│   ├── aggregates_cl.csv
+│   └── city_country_median_cl.csv
+│
+└── reports/                 	
+    └── Living_Wage_Dashboard.pdf
+
 
 ## 📡 Data Sources
 * **Valuing Impact** – [2026 Global Living Wage Dataset](https://valuingimpact.com/all/2026_living_wage_dataset/)
@@ -20,10 +46,8 @@ The core of this project is the **Affordability Index**, which measures the cost
 ---
 
 ## 🧰 Tech Stack & Methodology
-* **Data Processing:** <img width="48" height="48" alt="icons8-pandas-48" src="https://github.com/user-attachments/assets/a1a0555b-f15f-4c7d-b2b4-0171fa2df0c9" />
-Python (Pandas) for cleaning and for all calculations.
-* **Visualization:**<img width="48" height="48" alt="icons8-google-looker-48" src="https://github.com/user-attachments/assets/8da2ecbd-8f79-4ee0-9889-9eb44c06d50c" />
- Looker Studio for interactive dashboards.
+* **Data Processing:**Python (Pandas) for cleaning and for all calculations.
+* **Visualization:**Looker Studio for interactive dashboards.
 * **Economic Modeling:** Created Growth Simulator using parameter-driven logic.
 
 ---
