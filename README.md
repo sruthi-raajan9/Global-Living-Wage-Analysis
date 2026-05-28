@@ -1,0 +1,1 @@
+# Global-Living-Wage-Analysis
