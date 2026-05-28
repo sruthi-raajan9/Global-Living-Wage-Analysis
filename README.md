@@ -20,8 +20,10 @@ The core of this project is the **Affordability Index**, which measures the cost
 ---
 
 ## 🧰 Tech Stack & Methodology
-* **Data Processing:** Python (Pandas) for cleaning and for all calculations.
-* **Visualization:** Looker Studio for interactive dashboards.
+* **Data Processing:** <img width="48" height="48" alt="icons8-pandas-48" src="https://github.com/user-attachments/assets/a1a0555b-f15f-4c7d-b2b4-0171fa2df0c9" />
+Python (Pandas) for cleaning and for all calculations.
+* **Visualization:**<img width="48" height="48" alt="icons8-google-looker-48" src="https://github.com/user-attachments/assets/8da2ecbd-8f79-4ee0-9889-9eb44c06d50c" />
+ Looker Studio for interactive dashboards.
 * **Economic Modeling:** Created Growth Simulator using parameter-driven logic.
 
 ---
@@ -105,12 +107,13 @@ My analysis led to three primary conclusions regarding global economic stability
 ## 🚀 How to Use
 
 ### 🎞️ Interactive Dashboard
-**[View the Live Looker Studio Report](https://datastudio.google.com/u/0/reporting/8b6fd8b6-3569-401e-8b30-5789f8e33352/page/p_ayxhdq6z3d)**
+**View the Live Looker Studio Report](https://datastudio.google.com/u/0/reporting/8b6fd8b6-3569-401e-8b30-5789f8e33352/page/p_ayxhdq6z3d)**
 
 *Interact with the GDP Growth Slider and explore the Affordability Index across 199 nations.*
 
 ### 📓 Data Analysis & Python Logic
-*Run the Analysis: Open the 'Global-Living-Wage-Analysis.ipynb' in Google Colab.**
+*Run the Analysis: Open in Google Colab https://github.com/sruthi-raajan9/Global-Living-Wage-Analysis/blob/main/Global_living__wage_analysis.ipynb**
+
 *Review the Python (Pandas) code used for data merging, cleaning, and metric calculation.*
 
 ---
